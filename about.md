@@ -1,10 +1,8 @@
 ---
 layout: about
-title: About
+title: À propos de nous
 description: >
-  **Hydejack** is a Jekyll theme with JavaScript powers, combining the best of static sites and modern web apps.
-  It features a suite of JavaScript that makes the page feel like an app, without sacrificing backwards-compatibility,
-  page-load speed or SEO.
+  L'association Unimakers est une association à but non lucratif permettant au étudiant d'Unilasalle Amiens d'avoir accés à l'univers de la robotique de maniére ludique et amusante, mais nous pronons aussi les projets personnels dans le cadre de nos activités
 menu: true
 order: 4
 ---
