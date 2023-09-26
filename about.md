@@ -50,3 +50,6 @@ end
 [tinyletter]: https://tinyletter.com/
 
 *[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
+~~~ruby
+# aller sur _data/author.yml pour rajouter une entête à "à propos"
+~~~
