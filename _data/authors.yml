@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              FACHE Quentin
+  email:             fachequentin@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -19,7 +19,7 @@ author1:
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+      2x:            https://media.licdn.com/dms/image/C4D1BAQH0cuuQyijCzA/company-background_10000/0/1605805915351/a_r_e_a_association_de_robotique_de_l_esiee_amiens_cover?e=1696366800&v=beta&t=lUJ9WZOHT_kT_Ty95U-tJX3y3bYg-EMLplbRjvJq9K8
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
