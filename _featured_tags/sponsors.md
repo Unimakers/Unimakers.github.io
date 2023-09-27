@@ -8,6 +8,6 @@ description: >
   Nous remercions nos Sponsors pour leurs aides 
 accent_color: '#E04750'
 
-accent_image:         /assets/img/robot-cdr-2023.jpg
+accent_image:         /assets/img/elect.jpg
 
 ---
