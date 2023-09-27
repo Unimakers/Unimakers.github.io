@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Nos differents projets
-slug: hyde
+slug: Nos differents projets
 menu: true
 order: 1
 description: >
