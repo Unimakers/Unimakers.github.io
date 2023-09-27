@@ -6,6 +6,10 @@ description: >
   GitHub is a code hosting platform for version control and collaboration.
   It lets you and others work together on projects from anywhere.
 tags: [hydejack]
+accent_color: '#E04750'
+accent_image:
+  background: '#2D2D36'
+  overlay:    false
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

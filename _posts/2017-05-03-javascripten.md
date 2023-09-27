@@ -4,6 +4,10 @@ title: JavaScripten (v6)
 description: >
   Hydejack v6 adds a layer of JavaScript, effectively turning the whole site into a single page app.
 tags: [hydejack]
+accent_color: '#E04750'
+accent_image:
+  background: '#2D2D36'
+  overlay:    false
 ---
 
 Hydejack has always featured a JavaScript-heavy sidebar, but other than that, JS has been used sparingly.

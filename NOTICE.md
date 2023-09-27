@@ -1,6 +1,10 @@
 ---
 layout: page
 title: NOTICE
+accent_color: '#E04750'
+accent_image:
+  background: '#2D2D36'
+  overlay:    false
 ---
 
 Copyright (c) 2017 Florian Klampfer <https://qwtel.com/>

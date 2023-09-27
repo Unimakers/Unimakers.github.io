@@ -3,6 +3,10 @@ layout: page
 title: Advanced
 description: >
   Under the hood, Hydejack is a surprisingly (maybe shockingly) complex beast. Some of the more advanced concepts are explained here.
+accent_color: '#E04750'
+accent_image:
+  background: '#2D2D36'
+  overlay:    false
 ---
 
 ## Table of Contents

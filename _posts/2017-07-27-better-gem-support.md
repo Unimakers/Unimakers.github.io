@@ -4,6 +4,10 @@ title: Better Gem Support (v6.5)
 description: >
   Hydejack v6.5 includes various quality-of-life improvements, especially when using the gem-based version of the theme.
 tags: [hydejack]
+accent_color: '#E04750'
+accent_image:
+  background: '#2D2D36'
+  overlay:    false
 ---
 
 This maintenance release includes various quality-of-life improvements,

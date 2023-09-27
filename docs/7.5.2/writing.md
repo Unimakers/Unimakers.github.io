@@ -5,6 +5,10 @@ description: >
   Hydejack offers a few additional features to markup your markdown.
   Don't worry, these are merely CSS classes added via the standard `{:.my-class}` syntax,
   so that your posts remain compatible with other Jekyll themes.
+accent_color: '#E04750'
+accent_image:
+  background: '#2D2D36'
+  overlay:    false
 ---
 
 Hydejack offers a few additional features to markup your markdown.
@@ -325,3 +329,4 @@ Continue with [Scripts](scripts.md){:.heading.flip-title}
 [ksynmath]: https://kramdown.gettalong.org/syntax.html#math-blocks
 [katex]: https://khan.github.io/KaTeX/
 [rtable]: https://dbushell.com/2016/03/04/css-only-responsive-tables/
+

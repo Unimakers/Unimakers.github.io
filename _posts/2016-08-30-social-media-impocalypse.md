@@ -6,6 +6,10 @@ description: >
   It also breaks things, hence a new major release number.
 tags: [hydejack]
 excerpt_separator: <!--more-->
+accent_color: '#E04750'
+accent_image:
+  background: '#2D2D36'
+  overlay:    false
 ---
 
 ## Breaking

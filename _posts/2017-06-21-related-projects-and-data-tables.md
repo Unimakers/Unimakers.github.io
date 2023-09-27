@@ -5,6 +5,10 @@ description: >
   In Hydejack v6.4 I've added a "Other Projects" section to the bottom of each project page,
   making it easier for users to navigate through your collection and discover other projects.
 tags: [hydejack]
+accent_color: '#E04750'
+accent_image:
+  background: '#2D2D36'
+  overlay:    false
 ---
 
 In this release I've added a "Other Projects" section to the bottom of each project page,

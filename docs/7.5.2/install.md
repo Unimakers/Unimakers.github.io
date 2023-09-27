@@ -4,6 +4,10 @@ title: Install
 description: >
   There are multiple ways of installing Hydejack and this document lays them out for you.
   The easiest way is with the Hydejack Starter Kit.
+accent_color: '#E04750'
+accent_image:
+  background: '#2D2D36'
+  overlay:    false
 ---
 
 There are multiple ways of installing Hydejack.

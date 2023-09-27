@@ -3,6 +3,10 @@ layout: page
 title: Build
 description: >
   On how to prepare your Hydejack site for a production build and deployment.
+accent_color: '#E04750'
+accent_image:
+  background: '#2D2D36'
+  overlay:    false
 ---
 
 ## Table of Contents

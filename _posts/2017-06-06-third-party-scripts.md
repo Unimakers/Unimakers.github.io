@@ -4,6 +4,10 @@ title: Third Party Scripts (v6.3)
 description: >
   Hydejack v6.3 makes including third party plugins easier.
 tags: [hydejack]
+accent_color: '#E04750'
+accent_image:
+  background: '#2D2D36'
+  overlay:    false
 ---
 
 This release makes including third party plugins easier.
