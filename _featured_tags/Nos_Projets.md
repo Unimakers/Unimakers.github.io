@@ -9,9 +9,9 @@ description: >
   It’s based on Poole, the Jekyll butler.
   Open `_featured_tags/hyde.md` to edit this text.
 accent_color: '#E04750'
-accent_image:
+accent_image:         /assets/img/robot-cdr-2023.jpg
   background: '#2D2D36'
   overlay:    false
-accent_image:          /assets/img/robot-cdr-2023.jpg
+         
 
 ---
