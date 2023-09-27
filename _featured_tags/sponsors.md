@@ -3,14 +3,13 @@ layout: list
 title: Sponsors
 slug: Sponsors
 menu: true
-order: 2
+order: 5
 description: >
-  Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by
-  [@qwtel](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
-  Open `_featured_tags/hydejack.md` to edit this text.
+  Nous remercions nos Sponsors pour leurs aides 
 accent_color: '#E04750'
 accent_image:
   background: '#2D2D36'
   overlay:    false
+accent_image:   assets\img\ELECT.jpg
+
 ---
