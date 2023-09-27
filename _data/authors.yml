@@ -74,9 +74,9 @@ author2:
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
     Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+  picture:           https://media.licdn.com/dms/image/C4D0BAQGCc7Z35Fsx3A/company-logo_100_100/0/1664290806133/unimakers_amiens_logo?e=1703721600&v=beta&t=RhZeZYZhh7nOFDEe1C3wX5hZUojTxlrfyv4RlMpN5i4
+  github:            https://github.com/UNIMAKERS-AMIENS
+  instagram:         https://instagram.com/unimakers_amiens?igshid=NzZlODBkYWE4Ng==
   accent_color:      '#E04750'
   accent_image:
     background:      '#2D2D36'
