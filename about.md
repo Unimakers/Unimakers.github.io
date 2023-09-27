@@ -3,6 +3,10 @@ layout: about
 title: À propos de nous
 description: >
   L'association Unimakers est une association à but non lucratif permettant au étudiant d'Unilasalle Amiens d'avoir accés à l'univers de la robotique de maniére ludique et amusante, mais nous pronons aussi les projets personnels dans le cadre de nos activités
+accent_color: '#E04750'
+accent_image:
+  background: '#2D2D36'
+  overlay:    false
 menu: true
 order: 4
 ---
