@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Nos differents projets
-slug: Nos differents projets
+title: Nos projets
+slug: Nos projets
 menu: true
 order: 1
 description: >
@@ -12,5 +12,5 @@ accent_color: '#E04750'
 accent_image:         
   background: '#2D2D36'
   overlay:    false  
-accent_image:         /assets/img/robot-cdr-2023.jpg
+accent_image:         /assets/img/elect.jpg
 ---
