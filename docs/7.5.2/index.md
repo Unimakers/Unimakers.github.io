@@ -4,7 +4,7 @@ title: Documentation
 menu: true
 order: 6
 description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+  Cette partie est l'index de la documentation
 accent_color: '#E04750'
 accent_image:       assets\img\remi-houda.jpg
 ---
