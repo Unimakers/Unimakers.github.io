@@ -1,13 +1,12 @@
 ---
 layout: page
 title: Documentation
+menu: true
+order: 6
 description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 accent_color: '#E04750'
-
 accent_image:       assets\img\arcade-c.jpg
-menu: true
-order: 6
 ---
 
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
