@@ -1,11 +1,9 @@
 ---
 layout: list
-title: Hydejack
-slug: hydejack
+title: Présentation
+slug: Présentation
 menu: true
-order: 2
-description: >
-  Description plus longue
+order: 1
 accent_color: '#E04750'
 accent_image:       /assets/img/cao_p.jpg
 ---
