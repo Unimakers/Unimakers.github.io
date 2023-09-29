@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              FACHE Quentin
-  email:             fachequentin@gmail.com
+  name:              Unimakers Amiens
+  email:             unimakers.amiens@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -66,17 +66,13 @@ author1:
 
 # Another author (optional)
 author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Fache Quentin
+  email:             fachequentin@gmail.com
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Etudiant Alternant au sein d'Unilasalle Amiens, travailllant pour la société Bonduelle. 
 
-    Open `_data/authors.yml` to edit this text.
-  picture:           https://media.licdn.com/dms/image/C4D0BAQGCc7Z35Fsx3A/company-logo_100_100/0/1664290806133/unimakers_amiens_logo?e=1703721600&v=beta&t=RhZeZYZhh7nOFDEe1C3wX5hZUojTxlrfyv4RlMpN5i4
-  github:            https://github.com/UNIMAKERS-AMIENS
-  instagram:         https://instagram.com/unimakers_amiens?igshid=NzZlODBkYWE4Ng==
+  picture:           https://unimakers-amiens.github.io/unimakersamiens/assets/img/membre/Quentin_Fache.png
+
   accent_color:      '#E04750'
   accent_image:
     background:      '#2D2D36'
