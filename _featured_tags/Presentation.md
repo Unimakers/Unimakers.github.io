@@ -10,8 +10,8 @@ accent_image:       /assets/img/cao_p.jpg
 
 ![Full-width image](https://unimakers-amiens.github.io/unimakersamiens/assets/img/match_cdr_2023.jpg)
 
-# Unimakers Amiens
-> Unimakers Amiens est une association d'étudiant sur le domaine de la robotique au sein d'Unilasalle Amiens 
+## Unimakers Amiens
+Unimakers Amiens est une association d'étudiant sur le domaine de la robotique au sein d'Unilasalle Amiens 
 
 Notre association s'engage à accompagner les étudiants dans la concrétisation de leurs projets. En général, nous apportons un soutien aux étudiants passionnés par la robotique, le modélisme, l'aéromodélisme, et bien d'autres disciplines similaires. Cependant, notre engagement ne s'arrête pas là.
 
