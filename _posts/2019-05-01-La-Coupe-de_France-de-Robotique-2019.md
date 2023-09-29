@@ -3,9 +3,9 @@ layout: post
 title: La Coupe de France de Robotique 2019
 description: >
   Voici ce que nos équipes ont réalisé à la coupe de France de robotique de 2019
-tags: [hydejack]
+tags: [Nos_Projets]
 author: author2
-# canonical_url: http://hyde.getpoole.com/2012/02/07/example-content/
+canonical_url: http://hyde.getpoole.com/2012/02/07/example-content/
 accent_color: '#E04750'
 accent_image:       assets/img/AtomFactory.png
   background: '#2D2D36'
