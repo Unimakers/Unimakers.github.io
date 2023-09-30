@@ -26,6 +26,7 @@ Aujourd’hui, nous avons besoin de l’aide de vos robots pour faire ces expér
 
 
 ### Le Robot Principal
+
 <iframe src="https://myhub.autodesk360.com/ue28ad8a0/shares/public/SHabee1QT1a327cf2b7a0c441775eadedf77?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 **Le robot principal est composé de :**
@@ -43,4 +44,23 @@ Aujourd’hui, nous avons besoin de l’aide de vos robots pour faire ces expér
 - **Électronique** :
   - Pour l'électronique, le robot utilise des régulateurs Traco Power pour sa carte d'alimentation. La partie de commande est gérée par des cartes Teensy 3.2. D'autres composants électroniques sont utilisés, bien que certains puissent causer des problèmes s'ils sont mal utilisés. Les drivers des moteurs pas à pas sont des DRV8825.
 
-Cette description donne un aperçu plus clair des composants et des fonctionnalités du robot.
+
+### Le Robot Secondaire
+
+<iframe src="https://myhub.autodesk360.com/ue28ad8a0/shares/public/SHabee1QT1a327cf2b7af648469e997f8269?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+**Le robot secondaire est composé de :**
+
+- **Actionneur** :
+  - Un bras à ventouse à l'avant, conçu pour saisir le précieux Goldenium.
+  - Trois ventouses à l'arrière du robot, utilisées pour récupérer les palets depuis les distributeurs.
+  - Deux petits bras destinés à pousser les atomes dans l'accélérateur de particules.
+
+- **Système de détection** :
+  - Composé de deux capteurs laser reflex de modèle OPB720A-06Z, montés sur un système de balise. Ces capteurs permettent au robot de détecter des objets ou des repères spécifiques dans son environnement.
+
+- **Base roulante** :
+  - La base roulante du robot est construite autour d'un moteur de type NEMA 17. Elle est équipée d'un système de bille folle pour compenser les irrégularités du terrain de jeu.
+
+- **Électronique** :
+  - Pour l'électronique, le robot secondaire utilise des régulateurs Traco Power pour sa carte d'alimentation. La partie de commande est gérée par des cartes Teensy 3.2. D'autres composants électroniques sont utilisés, bien que certains puissent provoquer des problèmes s'ils sont mal utilisés. Les drivers des moteurs pas à pas sont des DRV8825.
