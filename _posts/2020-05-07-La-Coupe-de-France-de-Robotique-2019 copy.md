@@ -11,6 +11,7 @@ accent_image:         assets/img/AtomFactory.png
   background: '#2D2D36'
   overlay:    false
 ---
+![Mandeleev](https://unimakers-amiens.github.io/unimakersamiens/assets/img/Mandeleev.jpg)
 
 # La Coupe de France de robotique 2019
 ## Le Thème de la Coupe 
