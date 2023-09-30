@@ -7,9 +7,10 @@ tags: []
 author: author3
 #canonical_url: http://hyde.getpoole.com/2012/02/07/example-content/
 accent_color: '#E04750'
-accent_image:         assets/img/AtomFactory.png
+accent_image:       
   background: '#2D2D36'
   overlay:    false
+accent_image:         assets/img/AtomFactory.png
 ---
 ![Farming_Mars](https://unimakers-amiens.github.io/unimakersamiens/assets/img/Farming_Mars.png)
 
