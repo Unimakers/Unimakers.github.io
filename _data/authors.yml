@@ -77,3 +77,29 @@ author2:
   accent_image:
     background:      '#2D2D36'
     overlay:         false
+
+author3:
+  name:              Looij Dylan
+  email:             
+  about:             |
+    ... 
+
+  picture:           https://unimakers-amiens.github.io/unimakersamiens/assets/img/membre/Dylan_Looij.png
+
+  accent_color:      '#E04750'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
+
+    author3:
+  name:              Rémi Lacombe
+  email:             
+  about:             |
+    ... 
+
+  picture:           https://unimakers-amiens.github.io/unimakersamiens/assets/img/membre/Remi_Lacombe.png
+
+  accent_color:      '#E04750'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
