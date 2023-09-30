@@ -24,7 +24,7 @@ mémère Monique ont tous été mangés l’an passé !
 C’est pourquoi nos robots ont une mission très importante pour la bonne réussite de notre voyage : préparer le
 terrain et faire des réserves de nourriture ! Ou plus exactement, faire en sorte que la serre autonome déjà mis
 en place survive assez longtemps pour que nos astronautes puissent récolter des fruits et légumes, et ainsi
-survivre et continuer leur long voyage !
+survivre et continuer leur long voyage!
 
 ## La Table De Jeu
 
