@@ -18,7 +18,7 @@ Le Theme de la Coupe est le Tableau Périodique des éléments voici l'introduct
 > Il y a 150 ans, Dmitri Mendeleïev révolutionnait notre compréhension de la matière et faisait faire un pas de géant à la science en publiant ses travaux sur la classification des éléments.
 Grâce à son célèbre tableau, il a supposé l’existence d’atomes inconnus et a donc laissé des cases vides. Quelques nouveaux atomes seulement ont été découverts depuis, validant par la même occasion les travaux de Dmitri Mendeleïev !
 Au-delà des éléments connus, il y en a toujours que nous ne connaissons pas. Découvrir des atomes peut être une tâche difficile, et requiert souvent des expériences complexes.
-Aujourd’hui, nous avons besoin de l’aide de vos robots pour faire ces expériences !
+Aujourd’hui, nous avons besoin de l’aide de vos robots pour faire ces expériences !.
 
 ## La Table de Jeu
 #### La table de robotique de la coupe de france 2019
