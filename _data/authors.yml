@@ -78,6 +78,20 @@ author2:
     background:      '#2D2D36'
     overlay:         false
 
+# Another author (optional too)
+author3:
+  name:              Looij Dylan
+  email:             looijdylan@gmail.com
+  about:             |
+    Etudiant au sein d'Unilasalle Amiens, Directeur Technique D'Unimakers. 
+
+  picture:           https://unimakers-amiens.github.io/unimakersamiens/assets/img/membre/Dylan_Looij.jpg
+
+  accent_color:      '#E04750'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
+
 author3:
   name:              Looij Dylan
   email:             
