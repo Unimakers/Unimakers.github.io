@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: La Coupe de France de Robotique
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 tags: []
