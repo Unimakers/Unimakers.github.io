@@ -21,7 +21,7 @@ Aujourd’hui, nous avons besoin de l’aide de vos robots pour faire ces expér
 
 ## La Table de Jeu
 #### La table de robotique de la coupe de france 2019
-![Table_de_Robotique](https://unimakers-amiens.github.io/unimakersamiens/assets/img/Table_de_Robotique_2019.png)
+![Table_de_Robotique](/assets/img/Table_de_Robotique_2019.png)
 
 
 ### Le Robot Principal
