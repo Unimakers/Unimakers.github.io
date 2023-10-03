@@ -8,7 +8,7 @@ accent_color: '#E04750'
 accent_image:       /assets/img/cao_p.jpg
 ---
 
-![Full-width image](https://unimakers-amiens.github.io/unimakersamiens/assets/img/match_cdr_2023.jpg)
+![Match_cdr_2023](/assets/img/match_cdr_2023.jpg)
 
 ## Unimakers Amiens
 Unimakers Amiens est une association d'étudiant sur le domaine de la robotique au sein d'Unilasalle Amiens 
