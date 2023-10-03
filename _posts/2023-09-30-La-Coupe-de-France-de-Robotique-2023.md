@@ -7,14 +7,15 @@ tags: []
 author: author3
 #canonical_url: http://hyde.getpoole.com/2012/02/07/example-content/
 accent_color: '#E04750'
-accent_image:         assets/img/AtomFactory.png
+accent_image:       
   background: '#2D2D36'
   overlay:    false
+accent_image:         assets/img/AtomFactory.png
 ---
 ![Farming_Mars](https://unimakers-amiens.github.io/unimakersamiens/assets/img/Farming_Mars.png)
 
 
-# La Coupe de France de robotique 2019
+# La Coupe de France de robotique 2023
 ## Le Thème de la Coupe 
 Le Theme de la Coupe Farming Mars voici l'introduction au sujet:
 >L’espace, frontière de l’infini vers laquelle voyage notre vaisseau spatial, notre première étape est : Mars. Mais
@@ -23,7 +24,7 @@ mémère Monique ont tous été mangés l’an passé !
 C’est pourquoi nos robots ont une mission très importante pour la bonne réussite de notre voyage : préparer le
 terrain et faire des réserves de nourriture ! Ou plus exactement, faire en sorte que la serre autonome déjà mis
 en place survive assez longtemps pour que nos astronautes puissent récolter des fruits et légumes, et ainsi
-survivre et continuer leur long voyage !
+survivre et continuer leur long voyage!
 
 ## La Table De Jeu
 

@@ -91,6 +91,7 @@ author3:
   accent_image:
     background:      '#2D2D36'
     overlay:         false
+<<<<<<< HEAD
 
 # Another author (optional too)
 author4:
@@ -105,3 +106,5 @@ author4:
   accent_image:
     background:      '#2D2D36'
     overlay:         false
+=======
+>>>>>>> 9bead9a55b118b71f9ab4937f9d425e8804e78da
