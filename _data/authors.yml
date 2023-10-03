@@ -85,7 +85,7 @@ author3:
   about:             |
     Etudiant au sein d'Unilasalle Amiens, Directeur Technique D'Unimakers. 
 
-  picture:           https://unimakers-amiens.github.io/unimakersamiens/assets/img/membre/Dylan_Looij.jpg
+  picture:           /assets/img/membre/Dylan_Looij.jpg
 
   accent_color:      '#E04750'
   accent_image:
@@ -98,8 +98,19 @@ author4:
   email:             
   about:             |
      
+  picture:           /assets/img/membre/Remi_Lacombe.png
 
-  picture:           https://unimakers-amiens.github.io/unimakersamiens/assets/img/membre/Dylan_Looij.jpg
+  accent_color:      '#E04750'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
+
+author5:
+  name:              Lacombe Rémi
+  email:             
+  about:             |
+     
+  picture:           /assets/img/membre/Alexandre.jpg
 
   accent_color:      '#E04750'
   accent_image:

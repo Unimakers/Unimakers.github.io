@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La Coupe de France de Robotique 2019
+title: related_project
 description: >
   Voici ce que nos équipes ont réalisé à la coupe de France de robotique de 2019
 tags: [Nos_Projets]
