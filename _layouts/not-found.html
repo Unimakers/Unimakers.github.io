@@ -21,13 +21,14 @@
 
 layout: base
 ---
+<img src="/assets/img/tile-wide.png" alt="Logo du Club">
 
 {% assign strings = site.data.strings %}
 
 <div class="page">
   <h1 class="page-title">{{ page.title | default:strings.not_found.title | default: "404: Page Not Found" }}</h1>
   <div class="hr pb0"></div>
-  < img src="https://media.licdn.com/dms/image/C4D1BAQH0cuuQyijCzA/company-background_10000/0/1605805915351/a_r_e_a_association_de_robotique_de_l_esiee_amiens_cover?e=1696366800&v=beta&t=lUJ9WZOHT_kT_Ty95U-tJX3y3bYg-EMLplbRjvJq9K8" >
+  <img src="https://media.licdn.com/dms/image/C4D1BAQH0cuuQyijCzA/company-background_10000/0/1605805915351/a_r_e_a_association_de_robotique_de_l_esiee_amiens_cover?e=1696366800&v=beta&t=lUJ9WZOHT_kT_Ty95U-tJX3y3bYg-EMLplbRjvJq9K8" >
   {% assign test = page.content | strip_newlines %}
   {% if test != "" %}
     {{ content }}
