@@ -92,3 +92,16 @@ author3:
     background:      '#2D2D36'
     overlay:         false
 
+# Another author (optional too)
+author4:
+  name:              Lacombe Rémi
+  email:             
+  about:             |
+     
+
+  picture:           https://unimakers-amiens.github.io/unimakersamiens/assets/img/membre/Dylan_Looij.jpg
+
+  accent_color:      '#E04750'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
