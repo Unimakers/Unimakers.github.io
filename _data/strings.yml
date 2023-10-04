@@ -22,8 +22,8 @@ navigation:            Navigation
 social:                Social
 links:                 Links
 pagination:            Pagination
-newer:                 Newer
-older:                 Older
+newer:                 Suivant
+older:                 Précédant
 back:                  Back
 permalink:             Permalink
 permalink_icon:        icon-link
