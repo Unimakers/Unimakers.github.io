@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: list
 title: Inscription
 slug: Nos projets
 menu: true
