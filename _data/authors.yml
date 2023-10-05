@@ -98,7 +98,7 @@ author4:
   email:             
   about:             |
      
-  picture:           assets/img/membre/Remi_Lacombe.png
+  picture:           /assets/img/membre/Remi_Lacombe.png
 
   accent_color:      '#E04750'
   accent_image:
@@ -106,7 +106,7 @@ author4:
     overlay:         false
 
 author5:
-  name:              Lacombe Rémi
+  name:              Alexandre
   email:             
   about:             |
      
