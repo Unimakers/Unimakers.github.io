@@ -6,23 +6,28 @@
   .image-container {
     flex: 1; /* Chaque image-container occupe un tiers de l'espace */
     text-align: center; /* Pour centrer le texte de la description */
-    border-radius: 10px; /* Bords arrondis */
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* Ombre */
+    margin-right: 10px; /* Espacement entre les boîtes */
+  }
+  
+  .image-container:last-child {
+    margin-right: 0; /* Supprime la marge à droite de la dernière boîte */
   }
   
   .image-link {
+    border-radius: 10px; /* Bords arrondis uniquement pour les boîtes avec des liens */
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5); /* Ombre orientée en bas à droite */
+    overflow: hidden; /* Masque le débordement de l'image */
+  }
+  
+  .image-link a {
+    display: block; /* Fait du lien un bloc pour occuper toute la zone cliquable */
     text-decoration: none; /* Supprime la décoration par défaut du lien */
     color: inherit; /* Hérite la couleur du texte du parent */
-    display: block; /* Fait du lien un bloc pour occuper toute la zone cliquable */
   }
   
-  .image-container img {
-    max-width: 100%; /* Les images ne dépasseront pas la largeur du conteneur */
+  .image-link img {
+    width: 100%; /* Définit une largeur de 100% pour que toutes les images aient la même taille */
     height: auto;
     max-height: 200px; /* Définissez la hauteur maximale souhaitée */
-  }
-  
-  .image-container p {
-    margin-top: 10px; /* Espace entre l'image et la description */
   }
   

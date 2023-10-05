@@ -14,7 +14,7 @@ accent_image:         /assets/img/electo.jpg
 <div class="container">
   <div class="image-container image-link">
     <a href="https://www.igus.fr">
-      <img src="/assets/img/sponsors/IGUS.jpg" alt="Image 1">
+      <img src="/assets/img/sponsors/IGUS.jpg" alt="IGUS">
       <p>Description de l'image 1</p>
     </a>
   </div>
@@ -28,11 +28,14 @@ accent_image:         /assets/img/electo.jpg
   
   <div class="image-container image-link">
     <a href="https://www.gotronic.fr">
-      <img src="/assets/img/sponsors/GOTRONIC.png" alt="">
+      <img src="/assets/img/sponsors/GOTRONIC.png" alt="GOTRONIC">
       <p>Description de l'image 3</p>
     </a>
   </div>
 </div>
+
+
+
 
 <div class="container">
   <div class="image-container image-link">
@@ -57,26 +60,28 @@ accent_image:         /assets/img/electo.jpg
   </div>
 </div>
 
+
+
 <div class="container">
   <div class="image-container image-link">
     <a href="lien_image1.jpg">
       <img src="image1.jpg" alt="Image 1">
-      <p>Description de l'image 1</p>
     </a>
+    <p>Description de l'image 2</p>
   </div>
   
   <div class="image-container image-link">
     <a href="lien_image2.jpg">
       <img src="image2.jpg" alt="Image 2">
-      <p>Description de l'image 2</p>
     </a>
+    <p>Description de l'image 2</p>
   </div>
   
   <div class="image-container image-link">
     <a href="lien_image3.jpg">
       <img src="image3.jpg" alt="Image 3">
-      <p>Description de l'image 3</p>
-    </a>
+      </a>
+    <p>Description de l'image 2</p>
   </div>
 </div>
 
