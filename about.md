@@ -14,41 +14,41 @@ order: 4
 
 <div class="container">
   <div class="image-container">
-    <img src="assets/img/membre/Dylan_Looij.jpg" alt="Image 1">
+    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Image 1">
     <p>Description de l'image 1</p>
   </div>
   
   <div class="image-container">
-    <img src="assets/img/membre/Dylan_Looij.jpg" alt="Image 2">
+    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Image 2">
     <p>Description de l'image 2</p>
   </div>
   
   <div class="image-container">
-    <img src="assets/img/membre/Dylan_Looij.jpg" alt="Image 3">
+    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Image 3">
     <p>Description de l'image 3</p>
   </div>
-</div>
+</div> 
 
 # L'équipe 2022-2023
 
 <div class="container">
   <div class="image-container">
-    <img src="assets/img/membre/Dylan_Looij.jpg" alt="Image 1">
+    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Image 1">
     <p>Description de l'image 1</p>
   </div>
   
   <div class="image-container">
-    <img src="assets/img/membre/Dylan_Looij.jpg" alt="Image 2">
+    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Image 2">
     <p>Description de l'image 2</p>
   </div>
   
   <div class="image-container">
-    <img src="assets/img/membre/Dylan_Looij.jpg" alt="Image 3">
+    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Image 3">
     <p>Description de l'image 3</p>
   </div>
 </div> 
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/association-de-robotique-de-l-esiee-amiens/adhesions/adhesion-unimakers/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/association-de-robotique-de-l-esiee-amiens/adhesions/adhesion-unimakers/widget-vignette" style="width: 350px; height: 600px; border: none;display: flex;justify-content: center;align-items: center;"></iframe>
 
 
 [blog]: https://qwtel.com/hydejack/blog/

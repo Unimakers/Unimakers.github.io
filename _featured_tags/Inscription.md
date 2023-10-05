@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: Inscription
 slug: Nos projets
 menu: true
@@ -14,4 +14,4 @@ accent_image:         /assets/img/guitare_c.jpg
 ---
  
  # Vous pouvez vous inscrire juste ici 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/association-de-robotique-de-l-esiee-amiens/adhesions/adhesion-unimakers/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/association-de-robotique-de-l-esiee-amiens/adhesions/adhesion-unimakers/widget" style="width: 100%; height: 1100px; border: none;"></iframe>
