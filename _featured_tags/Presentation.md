@@ -21,4 +21,6 @@ L'un de nos objectifs principaux est de favoriser l'épanouissement des compéte
 
 De plus, nous nous efforçons de rester à l'avant-garde des avancées technologiques et des tendances émergentes dans les domaines qui nous passionnent. Cela signifie que nos membres bénéficient d'un accès aux outils, aux équipements, et aux informations les plus récents, les aidant ainsi à rester compétitifs et innovants.
 
+
+
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/association-de-robotique-de-l-esiee-amiens/adhesions/adhesion-unimakers/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
