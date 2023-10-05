@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: space-between; /* Espacement égal entre les images */
+  }
+  
+  .image-container {
+    flex: 1; /* Chaque image-container occupe un tiers de l'espace */
+    text-align: center; /* Pour centrer le texte de la description */
+  }
+  
+  .image-container img {
+    max-width: 100%; /* Les images ne dépasseront pas la largeur du conteneur */
+    height: auto;
+    max-height: 200px; /* Définissez la hauteur maximale souhaitée */
+  }
+  
+  .image-container p {
+    margin-top: 10px; /* Espace entre l'image et la description */
+  }
+  

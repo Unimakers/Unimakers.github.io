@@ -1,8 +1,6 @@
 ---
 layout: about
 title: À propos
-description: >
-  L'association Unimakers est une association à but non lucratif permettant au étudiant d'Unilasalle Amiens d'avoir accés à l'univers de la robotique de maniére ludique et amusante, mais nous pronons aussi les projets personnels dans le cadre de nos activités
 accent_color: '#E04750'
 accent_image:
   background: '#2D2D36'
@@ -12,16 +10,45 @@ menu: true
 order: 4
 ---
 
+# L'équipe 2023-2024
 
-### Syntax Highlighting
-Syntax highlighting powered by [Rouge].
+<div class="container">
+  <div class="image-container">
+    <img src="assets/img/membre/Dylan_Looij.jpg" alt="Image 1">
+    <p>Description de l'image 1</p>
+  </div>
+  
+  <div class="image-container">
+    <img src="assets/img/membre/Dylan_Looij.jpg" alt="Image 2">
+    <p>Description de l'image 2</p>
+  </div>
+  
+  <div class="image-container">
+    <img src="assets/img/membre/Dylan_Looij.jpg" alt="Image 3">
+    <p>Description de l'image 3</p>
+  </div>
+</div>
 
-~~~ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-~~~
+# L'équipe 2022-2023
+
+<div class="container">
+  <div class="image-container">
+    <img src="assets/img/membre/Dylan_Looij.jpg" alt="Image 1">
+    <p>Description de l'image 1</p>
+  </div>
+  
+  <div class="image-container">
+    <img src="assets/img/membre/Dylan_Looij.jpg" alt="Image 2">
+    <p>Description de l'image 2</p>
+  </div>
+  
+  <div class="image-container">
+    <img src="assets/img/membre/Dylan_Looij.jpg" alt="Image 3">
+    <p>Description de l'image 3</p>
+  </div>
+</div> 
+
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/association-de-robotique-de-l-esiee-amiens/adhesions/adhesion-unimakers/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
 
 
 [blog]: https://qwtel.com/hydejack/blog/
@@ -55,6 +82,4 @@ end
 [tinyletter]: https://tinyletter.com/
 
 *[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
-~~~ruby
-# aller sur _data/author.yml pour rajouter une entête à "à propos"
-~~~
+
