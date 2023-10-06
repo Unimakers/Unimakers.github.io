@@ -6,7 +6,8 @@
   .image-container {
     flex: 1; /* Chaque image-container occupe un tiers de l'espace */
     text-align: center; /* Pour centrer le texte de la description */
-    margin-right: 10px; /* Espacement entre les boîtes */
+    margin-right: 10px; /* Espacement entre les boîtes à droite */
+    margin-bottom: 10px; /* Espacement en bas de toutes les boîtes */
   }
   
   .image-container:last-child {

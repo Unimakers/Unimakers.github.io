@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: page
 title: Sponsors
 slug: Sponsors
 menu: true
@@ -34,12 +34,11 @@ accent_image:         /assets/img/electo.jpg
   </div>
 </div>
 
-          ___________________________________________________________________________________________
 
 <div class="container">
   <div class="image-container image-link">
     <a href="https://www.lamiecaline.com/boutiques/amiens/">
-      <img src="LAMIECALINE_AMIENS.jpg" alt="LMC_AMIENS">
+      <img src="/assets/img/sponsors/LAMIECALINE_AMIENS.jpg" alt="LMC_AMIENS">
     </a>
     <p>Description de l'image 2</p>
   </div>

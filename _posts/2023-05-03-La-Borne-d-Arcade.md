@@ -2,7 +2,7 @@
 layout: post
 title: La borne d'arcade
 description: >
-  Une borne d'arcade fais sous l'OS Recalbox et tout les outils du Makerspace 
+  Réalisation d'une borne d'arcade sous l'OS Recalbox et fabriquer avec tout les outils du Makerspace dans les locaux d'Unilasalle Amiens encadré par Adrien Bracq (Enseignant Chercheur).
 tags: [Amiens]
 author: author2
 accent_color: '#E04750'
@@ -14,7 +14,6 @@ accent_image: /assets/img/project/Borne_d_arcade/salle-arcade-mikado.jpg
 ---
 
 ## Réalisation d'une borne d'arcade
-> Réalisation d'une borne d'arcade dans les locaux d'Unilasalle Amiens encadré par Adrien Bracq (Enseignant Chercheur).
 
 > **Petite Histoire:**
 Les bornes d'arcade ont fait leur apparition dans les années 1930 avec l'arrivée des jeux électromécaniques tels que les flippers. Ceux-ci se sont rapidement popularisés, souvent de la taille d'un meuble et avec un coût relativement élevé. Peu de particuliers pouvaient se les offrir. C'est pour cette raison que des salles publiques ont vu le jour, où des dizaines de machines étaient disponibles. Les premières bornes d'arcade avec des jeux vidéo intégrés ont fait leur apparition dans les années 1960 en Amérique, avant de se populariser en Europe dans les années 1970 à 1980. Malheureusement, c'est à cette même période que les bornes d'arcade ont commencé à disparaître en Europe en raison de l'arrivée des consoles de jeux portables sur le marché.
@@ -39,7 +38,8 @@ Les étapes pour construire une borne d'arcade sont les suivantes :
 
 - La disposition des **[boutons](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FButtons-EG-STARTS-Joystick-Raspberry%2Fdp%2FB01M2X88QP&psig=AOvVaw24R-zllYnmTKl9GBSw74hN&ust=1696636929855000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiRiZuP4IEDFQAAAAAdAAAAABAG)** et du **[joystick](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FButtons-EG-STARTS-Joystick-Raspberry%2Fdp%2FB01M2X88QP&psig=AOvVaw24R-zllYnmTKl9GBSw74hN&ust=1696636929855000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiRiZuP4IEDFQAAAAAdAAAAABAG)** est cruciale pour une utilisation confortable de la borne d'arcade. Il existe des **[schémas](https://pxlbbq.com/wp-content/uploads/2017/05/sega1_l.png)** pour indiquer la position idéale des boutons. Toujours avec un prototypage en carton ^^
 
-![Personnalisation de la borne avec mario pixel](/assets/img/project/Borne_d_arcade/proto.jpg)
+![Réalisation du plateau de commande en 3D](/assets/img/project/Borne_d_arcade/plaque_joystik.png)
+![protype carton du plateau de commande](/assets/img/project/Borne_d_arcade/proto.jpg)
 
 - Pour la partie électronique, utilisez un **écran d'occasion** et une **[Raspberry Pi 2+](https://www.raspberrypi.com/documentation/)** connectée aux boutons. *Attention: la taille de votre écran vas déterminer vos dimensions*
 
@@ -47,6 +47,7 @@ Les étapes pour construire une borne d'arcade sont les suivantes :
 
 - Après avoir construit la borne, vous pouvez la personnaliser comme vous le souhaitez, que ce soit visuellement ou en modifiant la partie front de l'OS Recalbox. La personnalisation de Recalbox peut être réalisée en utilisant le **[scraping](https://www.youtube.com/watch?v=a8-XDy_tYAw)** pour les jeux ou en changeant le **thème Recalbox**. En ce qui concerne les jeux, je vous conseille de regarder directement des vidéos car il existe plusieurs façons d'avoir des jeux dans la console. 
 
+![Personnalisation de la borne avec mario pixel graver au laser](/assets/img/project/Borne_d_arcade/personalisation.jpg)
 ![Borne en train de fonctionner](/assets/img/project/Borne_d_arcade/ingame.png)
 ![Borne en marche avec son créateur](/assets/img/project/Borne_d_arcade/borne-d-arcade.png)
 
