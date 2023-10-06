@@ -13,5 +13,6 @@ accent_image:
 accent_image:         /assets/img/guitare_c.jpg
 ---
  
- # Insci 
+ # Inscription
+ 
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/association-de-robotique-de-l-esiee-amiens/adhesions/adhesion-unimakers/widget" style="width: 100%; height: auto; border: none;"></iframe>

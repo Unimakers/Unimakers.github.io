@@ -1,70 +1,64 @@
 ---
 layout: post
-title: JavaScripten (v6)
+title: La borne d'arcade
 description: >
-  Hydejack v6 adds a layer of JavaScript, effectively turning the whole site into a single page app.
-tags: [hydejack]
+  Une borne d'arcade fais sous l'OS Recalbox et tout les outils du Makerspace 
+tags: [Amiens]
+author: author2
 accent_color: '#E04750'
 accent_image:
   background: '#2D2D36'
   overlay:    false
+accent_image: /assets/img/project/Borne_d_arcade/salle-arcade-mikado.jpg
+
 ---
 
-Hydejack has always featured a JavaScript-heavy sidebar, but other than that, JS has been used sparingly.
-This changes with this release, which adds a ton of (optional) code that changes the feel of the theme dramatically.
+## Réalisation d'une borne d'arcade
+> Réalisation d'une borne d'arcade dans les locaux d'Unilasalle Amiens encadré par Adrien Bracq (Enseignant Chercheur).
 
-## Major
-Pages are now loaded and swapped through JavaScript. This has a number of effects.
-First of all, it looks cool, but the animations aren't just about aesthetics:
-They also help to hide the network time of fetching the next page, making the entire site feel faster.
-At the same time, the FOUC introduced in the last release will no longer occur (except on the initial page load).
+> **Petite Histoire:**
+Les bornes d'arcade ont fait leur apparition dans les années 1930 avec l'arrivée des jeux électromécaniques tels que les flippers. Ceux-ci se sont rapidement popularisés, souvent de la taille d'un meuble et avec un coût relativement élevé. Peu de particuliers pouvaient se les offrir. C'est pour cette raison que des salles publiques ont vu le jour, où des dizaines de machines étaient disponibles. Les premières bornes d'arcade avec des jeux vidéo intégrés ont fait leur apparition dans les années 1960 en Amérique, avant de se populariser en Europe dans les années 1970 à 1980. Malheureusement, c'est à cette même période que les bornes d'arcade ont commencé à disparaître en Europe en raison de l'arrivée des consoles de jeux portables sur le marché.
 
-* Most JS is now unified in the `_js` directory and written in ES2016.
-* The `blog-by-tag` layout has been renamed to `list`.
-* `public` folder has been renamed to `assets` to make the theme compatible with Jekyll's gem-based themes.
-* Tags are now supported via Jekyll Collections instead of `_data`.
-* The sidebar can now add links to all kinds of pages.
-* Categories are now supported.
-* Author information moved to `_data/authors.yml`
-* Added support for multiple authors.
-* Using `jekyll-feed` plugin (supported on GitHub Pages) instead of custom solution.
-* Added `about` layout.
-* Added `not-found` layout.
-* Added `redirect` layout
+### **Le but du projet:**
 
-See the [the migration guide][upgrade] for instructions on how to upgrade.
+Le but de ce projet est de réaliser une borne d'arcade avec des anciens jeux d'arcades des années 1980.
 
-## Minor
-* The "accent" font (heading font) is now used for all headings.
-  This gives the theme a "bolder" look and was necessary for the animation: link => heading.
-* Changed default text font from "PT Serif" to "Noto Serif".
-* Added [CSS classes][writing] for styling markdown content.
-* Links have a new style.
-  They now always display an underline to make the choice of the link color less critical (darker colors were hard to
-  distinguish from regular text).
-* Made social media icons larger and easier to tap.
-* Social media icons are now also part of the "about" sections of a post.
-* Added support for a copyright notice at the bottom. Can be set via the config variable `copyright`.
-* Changed responsive breakpoints and added support for very large displays.
-* The site is now printable.
-* The `blog` layout now only shows the excerpt instead of the full post.
-* Links to external pages are now marked with a symbol.
-* Added margin above social media icons to prevent accidental tapping
-* Added gem files so that `bundle install` and `bundle exec jekyll serve` work
-* Disabled HTML minification when running via `jekyll serve`
-* Added dingbat to signal end of post
+### Réalisation du projet:
 
-## Fixes
-* Related posts is no longer blank for posts that do not belong to a category.
-* Footnotes now use the text version of "leftwards arrow with hook" instead of the emoji on iOS.
-* Text is no longer invisible while waiting for Google Fonts to load.
-* Always show scrollbar to prevent layout "jumps"
+Les étapes pour construire une borne d'arcade sont les suivantes :
 
-***
+- Dessinez un design à la main pour déterminer les dimensions de la borne.
 
-[Get *JavaScripten* on GitHub](https://github.com/qwtel/hydejack/releases/tag/v7.5.2)
+- Utilisez un logiciel de CAO, comme **[FreeCAD](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj5odvWjeCBAxWMV6QEHQQbCjQQFnoECBUQAQ&url=https%3A%2F%2Fwww.freecad.org%2Findex.php%3Flang%3Dfr&usg=AOvVaw17WDYd8I-_k42_OpiwajPK&opi=89978449)**, **[Fusion360](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjQ4obojeCBAxUaVqQEHQGGBs4QFnoECBcQAQ&url=https%3A%2F%2Fwww.autodesk.fr%2Fproducts%2Ffusion-360%2Foverview&usg=AOvVaw0o3YgBfEPtwNNOSe69fjn3&opi=89978449)** ou **[SolidWorks](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwio86HxjeCBAxXTRUEAHeEFAGQQFnoECAgQAQ&url=https%3A%2F%2Fwww.solidworks.com%2Ffr&usg=AOvVaw2PKKzNpHSQdI9BvKXJUuLo&opi=89978449)**, pour réaliser chaque pièce de la borne. Les fichiers peuvent être trouvés sur le lien du drive. Pour ma part j'ai utilisé FreeCAD
 
-[upgrade]: ../docs/7.5.2/upgrade.md
-[writing]: ../docs/7.5.2/writing.md
+![utilisation du logiciel de CAO](/assets/img/project/Borne_d_arcade/CAO.png)
 
-*[FOUC]: Flash of Unstyled Content
+- Découpez les pièces à l'aide d'une **[découpeuse laser**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrHq1XwIzPL4&psig=AOvVaw0GFboQfyNL2UuevHQNS55l&ust=1696636394385000&source=images&cd=vfe&opi=89978449&ved=0CBQQ3YkBahcKEwjAzuebjeCBAxUAAAAAHQAAAAAQCQ)**, ou d'autres solutions telles qu'une scie sauteuse ou une scie. Dans mon cas j'avais à disposition de la découpeuse laser et du logieciel de FAO "Laserbox". pour etre sur de nos calcules il faut en premier lieu un prototypage en carton.
+
+![Prototypage de la Borne en carton](/assets/img/project/Borne_d_arcade/protocarton_borne.jpg)
+
+- La disposition des **[boutons](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FButtons-EG-STARTS-Joystick-Raspberry%2Fdp%2FB01M2X88QP&psig=AOvVaw24R-zllYnmTKl9GBSw74hN&ust=1696636929855000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiRiZuP4IEDFQAAAAAdAAAAABAG)** et du **[joystick](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FButtons-EG-STARTS-Joystick-Raspberry%2Fdp%2FB01M2X88QP&psig=AOvVaw24R-zllYnmTKl9GBSw74hN&ust=1696636929855000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiRiZuP4IEDFQAAAAAdAAAAABAG)** est cruciale pour une utilisation confortable de la borne d'arcade. Il existe des **[schémas](https://pxlbbq.com/wp-content/uploads/2017/05/sega1_l.png)** pour indiquer la position idéale des boutons. Toujours avec un prototypage en carton ^^
+
+![Personnalisation de la borne avec mario pixel](/assets/img/project/Borne_d_arcade/proto.jpg)
+
+- Pour la partie électronique, utilisez un **écran d'occasion** et une **[Raspberry Pi 2+](https://www.raspberrypi.com/documentation/)** connectée aux boutons. *Attention: la taille de votre écran vas déterminer vos dimensions*
+
+- La partie logicielle est plus complexe. Il faut installer la bonne version de **[Recalbox](https://www.recalbox.com/fr/)**. Pour ce faire, visitez le site web de Recalbox et créez soit une **[clé USB bootable](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiv97HRjuCBAxXOR6QEHZBPAUYQtwJ6BAguEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGcRBwI9-eug&usg=AOvVaw2VMXTMaAPA_Otew1gt-L4s&opi=89978449)**, soit une **[carte SD bootable](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiv97HRjuCBAxXOR6QEHZBPAUYQtwJ6BAguEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGcRBwI9-eug&usg=AOvVaw2VMXTMaAPA_Otew1gt-L4s&opi=89978449)**. *Attention: si vous utilisez un ordinateur pour faire fonctionner la borne, un environnement Linux est nécessaire*.
+
+- Après avoir construit la borne, vous pouvez la personnaliser comme vous le souhaitez, que ce soit visuellement ou en modifiant la partie front de l'OS Recalbox. La personnalisation de Recalbox peut être réalisée en utilisant le **[scraping](https://www.youtube.com/watch?v=a8-XDy_tYAw)** pour les jeux ou en changeant le **thème Recalbox**. En ce qui concerne les jeux, je vous conseille de regarder directement des vidéos car il existe plusieurs façons d'avoir des jeux dans la console. 
+
+![Borne en train de fonctionner](/assets/img/project/Borne_d_arcade/ingame.png)
+![Borne en marche avec son créateur](/assets/img/project/Borne_d_arcade/borne-d-arcade.png)
+
+- Et enfin profité, faite partager, ou faite payer mais attention c'est illégale ^^
+
+![Borne en marche au salon du Safra numérique](/assets/img/project/Borne_d_arcade/Safra_numerique.png)
+
+
+## Téléchargement des ressources 
+> Vous pouvez vous aussi la réaliser sans rien faire avec tout les dossier qui sont ici: 
+
+- [La Parties FAO](https://drive.google.com/drive/folders/1l8KBKS_DKK8M51PJvBYQ1OmmrbqSskoz?usp=drive_link) *sous freecad je precise*
+- [La Parties Scraping](https://drive.google.com/drive/folders/1VqpI_UWtA0QQUX6-7rAunpzHCxvgmyDm?usp=drive_link)
+- [La Parties OS recalbox](https://drive.google.com/drive/folders/1BNq80I9mQ7tGICTAPnmZjTvw8rT7d2Sf?usp=drive_link)
+
