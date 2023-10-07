@@ -14,18 +14,21 @@ order: 4
 
 <div class="container">
   <div class="image-container">
-    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Image 1">
-    <p>Description de l'image 1</p>
+    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Dylan_Looij">
+    <p>Dylan Looij</p>
+    <p>Directeur Technique</p>
   </div>
   
   <div class="image-container">
-    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Image 2">
-    <p>Description de l'image 2</p>
+    <img src="/assets/img/membre/Quentin_Fache" alt="Quentin_Fache">
+    <p>Quentin Fache</p>
+    <p>Chargé des Sponsors et des finances</p>
   </div>
   
   <div class="image-container">
-    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Image 3">
-    <p>Description de l'image 3</p>
+    <img src="/assets/img/membre/PA.jpg" alt="PA">
+    <p>Pierre-Alex Bianchi</p>
+    <p>Chargé de la Communication</p>
   </div>
 </div> 
 
@@ -33,18 +36,21 @@ order: 4
 
 <div class="container">
   <div class="image-container">
-    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Image 1">
-    <p>Description de l'image 1</p>
+    <img src="/assets/img/membre/Remi_Lacombe.png" alt="Rémi Lacombe">
+    <p>Rémi Lacombe</p>
+    <p>Directeur Pôle Robotique</p>
   </div>
   
   <div class="image-container">
-    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Image 2">
-    <p>Description de l'image 2</p>
+    <img src="/assets/img/membre/Bixente_Lecadieu.png" alt="Bixente Lecadieu">
+    <p>Bixente_Lecadieu</p>
+    <p>Directeur pôle Makerspace</p>
   </div>
   
   <div class="image-container">
-    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Image 3">
+    <img src="/assets/img/membre/Teva_Houziaux.png" alt="Teva Houziaux">
     <p>Description de l'image 3</p>
+    <p>Directeur pôle Modélisme</p>
   </div>
 </div> 
 

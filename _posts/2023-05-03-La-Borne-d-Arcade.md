@@ -15,6 +15,8 @@ accent_image: /assets/img/project/Borne_d_arcade/salle-arcade-mikado.jpg
 
 ## Réalisation d'une borne d'arcade
 
+![Borne en marche avec son créateur](/assets/img/project/Borne_d_arcade/borne-d-arcade.png)
+
 > **Petite Histoire:**
 Les bornes d'arcade ont fait leur apparition dans les années 1930 avec l'arrivée des jeux électromécaniques tels que les flippers. Ceux-ci se sont rapidement popularisés, souvent de la taille d'un meuble et avec un coût relativement élevé. Peu de particuliers pouvaient se les offrir. C'est pour cette raison que des salles publiques ont vu le jour, où des dizaines de machines étaient disponibles. Les premières bornes d'arcade avec des jeux vidéo intégrés ont fait leur apparition dans les années 1960 en Amérique, avant de se populariser en Europe dans les années 1970 à 1980. Malheureusement, c'est à cette même période que les bornes d'arcade ont commencé à disparaître en Europe en raison de l'arrivée des consoles de jeux portables sur le marché.
 
