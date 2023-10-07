@@ -16,21 +16,21 @@ accent_image:         /assets/img/electo.jpg
     <a href="https://www.igus.fr">
       <img src="/assets/img/sponsors/IGUS.jpg" alt="IGUS">
     </a>
-    <p>Description de l'image 2</p>
+    <p>La société Igus</p>
   </div>
   
   <div class="image-container image-link">
     <a href="https://fr.rs-online.com">
       <img src="/assets/img/sponsors/RS.png" alt="RS">
     </a>
-    <p>Description de l'image 2</p>
+    <p>RS France</p>
   </div>
   
   <div class="image-container image-link">
     <a href="https://www.gotronic.fr">
       <img src="/assets/img/sponsors/GOTRONIC.png" alt="GOTRONIC">
     </a>
-    <p>Description de l'image 2</p>
+    <p>Gotronic</p>
   </div>
 </div>
 
@@ -40,7 +40,7 @@ accent_image:         /assets/img/electo.jpg
     <a href="https://www.lamiecaline.com/boutiques/amiens/">
       <img src="/assets/img/sponsors/LAMIECALINE_AMIENS.jpg" alt="LMC_AMIENS">
     </a>
-    <p>Description de l'image 2</p>
+    <p>La Mie Câline d'Amiens</p>
   </div>
   
   <div class="image-container image-link">
