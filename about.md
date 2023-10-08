@@ -14,13 +14,13 @@ order: 4
 
 <div class="container">
   <div class="image-container">
-    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Dylan_Looij">
+    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Dylan Looij">
     <p>Dylan Looij</p>
     <p>Directeur Technique</p>
   </div>
   
   <div class="image-container">
-    <img src="/assets/img/membre/Quentin_Fache.png" alt="Quentin_Fache">
+    <img src="/assets/img/membre/Quentin_Fache.png" alt="Quentin Fache">
     <p>Quentin Fache</p>
     <p>Chargé des Sponsors et des finances</p>
   </div>
@@ -43,13 +43,13 @@ order: 4
   
   <div class="image-container">
     <img src="/assets/img/membre/Bixente_Lecadieu.png" alt="Bixente Lecadieu">
-    <p>Bixente_Lecadieu</p>
+    <p>Bixente Lecadieu</p>
     <p>Directeur pôle Makerspace</p>
   </div>
   
   <div class="image-container">
     <img src="/assets/img/membre/Teva_Houziaux.png" alt="Teva Houziaux">
-    <p>Description de l'image 3</p>
+    <p>Teva Houziaux</p>
     <p>Directeur pôle Modélisme</p>
   </div>
 </div> 
