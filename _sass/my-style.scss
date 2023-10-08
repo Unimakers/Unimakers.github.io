@@ -1,6 +1,10 @@
 .container {
     display: flex;
     justify-content: space-between; /* Espacement égal entre les images */
+    padding-top: 20px; /* Rembourrage en haut du conteneur */
+    padding-bottom: 20px; /* Rembourrage en bas du conteneur */
+    margin-top: 20px; /* Espacement en haut du conteneur */
+    margin-bottom: 20px; /* Espacement en bas du conteneur */
   }
   
   .image-container {
