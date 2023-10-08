@@ -19,6 +19,8 @@
     width: 100%; /* Définit une largeur de 100% pour que toutes les images aient la même taille */
     height: 200px; /* Définissez la hauteur fixe souhaitée pour les images */
     object-fit: cover; /* Remplit la zone avec l'image en conservant ses proportions */
+    border-top-left-radius: 10px; /* Coin supérieur gauche */
+    border-top-right-radius: 10px; /* Coin supérieur droit */
   }
   
   .image-container p {

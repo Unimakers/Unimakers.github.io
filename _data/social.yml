@@ -201,3 +201,7 @@ paypal:
 download:
   name: Download
   icon: icon-box-add
+helloasso:
+  name: Helloasso
+  icon: icon-helloasso
+  prepend: https://www.helloasso.com

@@ -38,23 +38,23 @@ accent_image:         /assets/img/electo.jpg
 <div class="container">
   <div class="image-container image-link">
     <a href="https://www.lamiecaline.com/boutiques/amiens/">
-      <img src="/assets/img/sponsors/LAMIECALINE_AMIENS.jpg" alt="LMC_AMIENS">
+      <img src="/assets/img/sponsors/LAMIECALINE_AMIENS.jpg" alt="La_Mie_Câline_AMIENS">
     </a>
     <p>La Mie Câline d'Amiens</p>
   </div>
   
   <div class="image-container image-link">
-    <a href="lien_image2.jpg">
-      <img src="image2.jpg" alt="Image 2">
+    <a href="https://www.leroymerlin.fr/magasins/amiens.html">
+      <img src="/assets/img/sponsors/Leroy_Merlin.png" alt="Leroy_Merlin">
     </a>
-    <p>Description de l'image 2</p>
+    <p>Leroy Merlin</p>
   </div>
   
   <div class="image-container image-link">
-    <a href="lien_image3.jpg">
-      <img src="image3.jpg" alt="Image 3">
+    <a href="https://amiens.unilasalle.fr/le-campus-esiee-amiens">
+      <img src="/assets/img/sponsors/Unilasalle.png" alt="Unilasalle Amiens">
     </a>
-    <p>Description de l'image 2</p>
+    <p>Unilasalle Amiens</p>
   </div>
 </div>
 
