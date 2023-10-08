@@ -65,4 +65,3 @@ Les étapes pour construire une borne d'arcade sont les suivantes :
 - [La Parties Scraping](https://drive.google.com/drive/folders/1VqpI_UWtA0QQUX6-7rAunpzHCxvgmyDm?usp=drive_link)
 - [La Parties OS recalbox](https://drive.google.com/drive/folders/1BNq80I9mQ7tGICTAPnmZjTvw8rT7d2Sf?usp=drive_link)
 
-v
