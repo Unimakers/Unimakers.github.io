@@ -70,10 +70,13 @@ author2:
   about:             |
     Salut moi c'est Quentin, je suis étudiant alternant au sein de Unilasalle amiens et je suis aussi le chargé des Sponsors et des Finances de l'association sur les années 2023-2024.
     Ce que j'adore c'est les projets funs et tranquille sans prise de tête, c'est pour ça que j'ai réalisé la borne d'arcade !! J'espere que le site te plait j'en suis aussi le créateur ^^ Enjoy !!
+  
   picture:           /assets/img/membre/Quentin_Fache.png
-  linkedin:         https://www.linkedin.com/in/fache-quentin/
-  github:           https://github.com/N3O3000
-  website:          https://sites.google.com/view/poisson-reveur/accueil
+  social:
+    linkedin:         https://www.linkedin.com/in/fache-quentin/
+    github:           https://github.com/N3O3000
+    website:          https://sites.google.com/view/poisson-reveur/accueil
+    email:            mailto:fachequentin@gmail.com
   accent_color:      '#E04750'
   accent_image:
     background:      '#2D2D36'
