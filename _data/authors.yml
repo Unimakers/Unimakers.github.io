@@ -67,10 +67,11 @@ author2:
   email:             fachequentin@gmail.com
   about:             |
     Salut moi c'est Quentin, je suis étudiant alternant au sein de Unilasalle amiens et je suis aussi le chargé des Sponsors et des Finances de l'association sur les années 2023-2024.
-    Ce que j'adore c'est les projets funs et tranquille sans prise de tête, c'est pour ça que j'ai réalisé la borne d'arcade !! J'espere que le site te plait j'en suis aussi le créateur ^^ Enjoy !!
+    Ce que j'adore c'est les projets funs et tranquille sans prise de tête, c'est pour ça que j'ai réalisé la borne d'arcade !! J'espere que le site te plait j'en suis aussi le créateur ^^ 
+    
   picture:           /assets/img/membre/Quentin_Fache.png
-  linkedin:         https://www.linkedin.com/in/fache-quentin/
-  github:           https://github.com/N3O3000
+    linkedin:         https://www.linkedin.com/in/fache-quentin/
+    github:           https://github.com/N3O3000
   accent_color:      '#E04750'
   accent_image:
     background:      '#2D2D36'
@@ -96,7 +97,8 @@ author3:
   name:              Pruvost Alexandre
   #email:             
   about:             |
-      picture:           /assets/img/membre/Alexandre.png
+
+  picture:           /assets/img/membre/Alexandre.png
   #linkedin:         
   #github:           
   accent_color:      '#E04750'
@@ -108,7 +110,8 @@ author4:
   name:              Looij Dylan
   email:             
   about:             |
-     picture:           /assets/img/membre/Dylan_Looij.jpg
+
+  picture:           /assets/img/membre/Dylan_Looij.jpg
   #linkedin:         
   #github:           
   accent_color:      '#E04750'
@@ -120,7 +123,8 @@ author5:
   name:              Lacombe Rémi
   email:             
   about:             |
-     picture:           /assets/img/membre/Remi_Lacombe.png
+     
+  picture:           /assets/img/membre/Remi_Lacombe.png
   #linkedin:         
   #github:           
   accent_color:      '#E04750'
