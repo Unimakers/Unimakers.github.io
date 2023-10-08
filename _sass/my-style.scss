@@ -43,3 +43,8 @@
     max-height: 200px; /* Définissez la hauteur maximale souhaitée */
   }
   
+  iframe {
+    width: 100%; /* La largeur de l'iframe prendra 100% de la largeur de l'écran */
+    height: 100vh; /* La hauteur de l'iframe prendra 100% de la hauteur de l'écran */
+    border: none; /* Pour supprimer les bordures de l'iframe */
+  }
