@@ -1,0 +1,129 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# Change `author1` to your shortname.
+author1:
+  name:              Unimakers Amiens
+  email:             unimakers.amiens@gmail.com
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+    Unimakers Amiens est une association d'étudiant à but non lucratif. Nous travaillons dans l'esprit d'un FabLab tout en évoluant avec les technologies, ainsi qu'avec les étudiants qui participent à differents types d'événement, telque la Coupe de France de Robotique, ou bien lorsqu'ils réalisent leurs projets personnels.
+
+  # This photo will be used in the about section
+  picture:
+    path:            /assets/icons/icon.jpg
+    # srcset is optional, but can be used to provide higher res versions for retina displays
+    srcset:
+      1x:           /assets/icons/icon.jpg
+      2x:            /assets/icons/icon.jpg
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  social:
+    #twitter:         <username>
+    github:          https://github.com/Unimakers
+    email:           mailto:unimakers.amiens@gmail.com
+    # rss:             https://<url>/feed.xml
+    # facebook:        <username>
+    # google:          <number>
+    # vk:              <username>
+    youtube:         https://www.youtube.com/@UniMakersAmiens
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    instagram:       https://instagram.com/unimakers_amiens?igshid=NzZlODBkYWE4Ng==
+    # flickr:          <string@string>
+    500px:           https://www.helloasso.com/associations/association-de-robotique-de-l-esiee-amiens
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # stackoverflow:   <number/username>
+    # npm:             <username>
+    # hackernews:      <username>
+    # trello:          <firstnamelastname>
+    linkedin:        https://www.linkedin.com/company/unimakers-amiens
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
+    # download:        https://github.com/qwtel/hydejack-starter-kit/archive/v7.5.0.zip
+
+# Another author (optional)
+author2:
+  name:              Fache Quentin
+  email:             fachequentin@gmail.com
+  about:             |
+    Salut moi c'est Quentin, je suis étudiant alternant au sein de Unilasalle amiens et je suis aussi le chargé des Sponsors et des Finances de l'association sur les années 2023-2024.
+    Ce que j'adore c'est les projets funs et tranquille sans prise de tête, c'est pour ça que j'ai réalisé la borne d'arcade !! J'espere que le site te plait j'en suis aussi le créateur ^^ Enjoy !!
+  picture:           /assets/img/membre/Quentin_Fache.png
+  linkedin:         https://www.linkedin.com/in/fache-quentin/
+  github:           https://github.com/N3O3000
+  accent_color:      '#E04750'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
+
+
+author2:
+  name:              Fache Quentin
+  email:             fachequentin@gmail.com
+  about:             |
+    Salut moi c'est Quentin, je suis étudiant alternant au sein de Unilasalle amiens et je suis aussi le chargé des Sponsors et des Finances de l'association sur les années 2023-2024.
+    Ce que j'adore c'est les projets funs et tranquille sans prise de tête, c'est pour ça que j'ai réalisé la borne d'arcade !! J'espere que le site te plait j'en suis aussi le créateur ^^ Enjoy !!
+  picture:           /assets/img/membre/Quentin_Fache.png
+  linkedin:         https://www.linkedin.com/in/fache-quentin/
+  github:           https://github.com/N3O3000
+  website:          https://sites.google.com/view/poisson-reveur/accueil
+  accent_color:      '#E04750'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
+
+author3:
+  name:              Pruvost Alexandre
+  #email:             
+  #about:             |
+      picture:           /assets/img/membre/Alexandre.png
+  #linkedin:         
+  #github:           
+  accent_color:      '#E04750'
+  accent_image:     
+    background:      '#2D2D36'
+    overlay:         false
+
+author4:
+  name:              Looij Dylan
+  email:             
+  about:             |
+     picture:           /assets/img/membre/Dylan_Looij.jpg
+  #linkedin:         
+  #github:           
+  accent_color:      '#E04750'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
+
+author5:
+  name:              Lacombe Rémi
+  email:             
+  about:             |
+     picture:           /assets/img/membre/Remi_Lacombe.png
+  #linkedin:         
+  #github:           
+  accent_color:      '#E04750'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
