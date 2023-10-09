@@ -65,6 +65,10 @@ permalink:             pretty
 paginate:              5
 paginate_path:         /page-:num/
 
+# Motor Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
 
 # Customizaton
 # ========================================================================================
