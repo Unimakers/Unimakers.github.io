@@ -5,7 +5,7 @@ slug: Sponsors
 menu: true
 order: 5
 description: >
-  Nous remercions nos Sponsors pour leurs aides 
+  Nous exprimons notre gratitude envers nos sponsors pour leur précieuse contribution.
 accent_color: '#E04750'
 accent_image:         /assets/img/electo.jpg
 

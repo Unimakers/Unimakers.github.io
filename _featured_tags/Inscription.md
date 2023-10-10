@@ -5,7 +5,7 @@ slug: Nos projets
 menu: true
 order: 3
 description: >
-  L'inscription est assez simple pour 1€ symbolique vous pouvez participer à tous les événements de l'association et particper à des projets incroyable et ainsi réaliser vos projets personels que vous pensiez impossible à réaliser !
+  L'inscription est très simple : pour seulement 1€ symbolique, vous pouvez participer à tous les événements de l'association et prendre part à des projets incroyables. Ainsi, vous pourrez réaliser vos projets personnels que vous pensiez impossibles à concrétiser !
 accent_color: '#E04750'
 accent_image:         
   background: '#2D2D36'

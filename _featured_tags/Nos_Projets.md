@@ -5,7 +5,7 @@ slug: Nos projets
 menu: true
 order: 2
 description: >
-  Ici vous pouvez retrouver tous nos projets depuis 2018. Cela passe par des projets de 3iéme années jusqu'a des projets personnels des étudiants de l'association des documentations sont à chaque fois à votre disposition pour nos projets pour expliquer plus en detail se que nous faisons dans nos projets et vous pourrez vous aussi réaliser ces projets. 
+  Ici, vous pouvez retrouver tous nos projets depuis 2018, allant des projets de troisième année jusqu'aux projets personnels des étudiants de l'association. Des documentations détaillées sont à votre disposition pour chaque projet, expliquant en détail ce que nous faisons dans nos projets. Vous pourrez ainsi vous inspirer et même réaliser ces projets vous-même.
 accent_color: '#E04750'
 accent_image:         
   background: '#2D2D36'

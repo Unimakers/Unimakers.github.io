@@ -4,30 +4,25 @@ title: Documentation
 menu: true
 order: 6
 description: >
-  Cette partie est l'index de la documentation
+  Ici vous retrouverez toutes la documentation de nos projet
 accent_color: '#E04750'
 accent_image:       /assets/img/arcade-c.jpg
 ---
 
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
-Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/qwtel/hydejack/issues) on GitHub.
+**NOTE**: D'autre documentation arrive prochainement
 
-**NOTE**: While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
-{:.message}
-
-Buyers of the PRO version can jump straight to [installation for pro buyers](install.md#pro-version),
+<!-- Buyers of the PRO version can jump straight to [installation for pro buyers](install.md#pro-version),
 or [upgrades for pro buyers](upgrade.md#pro-version).
-
-## Getting started
+-->
+## La borne d'arcade
 {:.hr}
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
+* [Installation]{:.heading.flip-title} --- Comment installer l'OS Recalbox.
+<!--* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.-->
+<!--* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.-->
 {:.related-posts.faded}
 
-## Using Hydejack
+<!-- Ceci est un commentaire en Markdown ## Using Hydejack
 {:.hr}
 
 * [Basics]{:.heading.flip-title} --- How to add different types of content.
@@ -44,8 +39,8 @@ or [upgrades for pro buyers](upgrade.md#pro-version).
 * [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
-
-[install]: install.md
+-->
+[installation]: installation.md
 [upgrade]: upgrade.md
 [config]: config.md
 [basics]: basics.md

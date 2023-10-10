@@ -2,7 +2,7 @@
 layout: list
 title: Posts
 description: >
-  Voici une liste des differents postes de nos étudiants bonne lecture ^^
+  Voici une liste des différents posts de nos étudiants. Nous vous souhaitons une agréable lecture ^^
 accent_color: '#E04750'
 accent_image:
   background: '#2D2D36'
