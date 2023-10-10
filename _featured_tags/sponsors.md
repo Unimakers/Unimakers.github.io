@@ -62,6 +62,29 @@ accent_image:         /assets/img/electo.jpg
 
 <div class="container">
   <div class="image-container image-link">
+    <a href="https://eu.robotshop.com/fr">
+      <img src="/assets/img/sponsors/RobotShop.jpg" alt="RobotShop">
+    </a>
+    <p>RobotShop</p>
+  </div>
+  
+  <div class="image-container image-link">
+    <a href="https://eu.robotshop.com/fr">
+      <img src="/assets/img/sponsors/Wurth_Elek.png" alt="Wurth_Elektronik">
+    </a>
+    <p>Würth Elektronik</p>
+  </div>
+  
+  <div class="image-container image-link">
+    <a href="https://www.robot-maker.com">
+      <img src="/assets/img/sponsors/RobotMaker.png" alt="Robot_Maker">
+      </a>
+    <p>Robot Maker</p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="image-container image-link">
     <a href="lien_image1.jpg">
       <img src="image1.jpg" alt="Image 1">
     </a>
