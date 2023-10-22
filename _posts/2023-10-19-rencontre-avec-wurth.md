@@ -13,10 +13,11 @@ accent_image:
   overlay:    false
 accent_image:         /assets/img/carte_elek.jpg
 ---
+# Rencontre avec Würth Elektronik
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7120834749551505408" height="654" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
 
-# Rencontre avec Ines Yous
+## Rencontre avec Ines Yous
 ![Rencontre_wurth](/assets/img/Ines_Yous.jpg)
 ## La société Würth Elektronik  
 Cette semaine la société Würth Elektronik nous a présenté les différents services et produits qu'ils peuvent nous fournir !!
