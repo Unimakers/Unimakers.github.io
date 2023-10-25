@@ -14,8 +14,8 @@ accent_image:
 accent_image:         /assets/img/carte_elek.jpg
 ---
 # Rencontre avec Würth Elektronik
+>Dans le cadre de notre expansion visant à concrétiser divers projets tels que la Coupe de France de Robotique, UniPCB, la création d'une borne d'arcade, ou encore la réalisation d'un hologramme, nous avons entrepris de nouer un partenariat avec la société Würth Elektronik. Cette collaboration nous permettra, dans un premier temps, de reprendre en main certains projets existants afin de les améliorer, tout en ouvrant la porte à la création de nouvelles idées pour de futurs projets. L'objectif fondamental de cette rencontre est d'explorer les perspectives d'innovation dans notre domaine grâce à la précieuse contribution de Würth Elektronik.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7120834749551505408" height="654" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
 
 ## Rencontre avec Ines Yous
 ![Rencontre_wurth](/assets/img/Ines_Yous.jpg)
@@ -26,7 +26,7 @@ Würth Elektronik, en tant que leader mondial dans la fabrication de composants 
 ## Exemples de composants électroniques
 Voici des exemples de composant électronique que Ines Yous nous a présenté 
 
-![Rencontre_wurth](/assets/img/post/Post_wurth/exemple_1.jpg)
+![Rencontre_wurth](/assets/img/post/Post_wurth/exemple_2.jpg)
 ![Rencontre_wurth](/assets/img/post/Post_wurth/exemple_1.jpg)
 ![Rencontre_wurth](/assets/img/post/Post_wurth/exemple_3.jpg)
 
@@ -55,3 +55,8 @@ Voici quelques caractéristiques de RedExpert :
 5. **Gestion de projet intégrée** : RedExpert propose des outils de gestion de projet pour aider les équipes à collaborer sur des conceptions complexes, à suivre les révisions et à maintenir une vue d'ensemble de l'état d'avancement.
 
 6. **Synchronisation avec le catalogue Würth Elektronik** : L'outil est directement connecté au catalogue de composants de Würth Elektronik, ce qui permet une sélection rapide et précise des composants disponibles.
+
+
+# Réseaux Sociaux
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7120834749551505408" height="654" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
