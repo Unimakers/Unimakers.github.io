@@ -93,9 +93,9 @@ accent_image:         /assets/img/electo.jpg
   
   <div class="image-container image-link">
     <a href="https://www.dagoma3d.com">
-      <img src="logo_dagoma.png" alt="Dagoma">
+      <img src="/assets/img/sponsors/logo_dagoma.png" alt="Dagoma">
     </a>
-    <p>Description de l'image 2</p>
+    <p>Dagoma</p>
   </div>
   
   <div class="image-container image-link">
