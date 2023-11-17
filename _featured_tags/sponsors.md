@@ -85,15 +85,15 @@ accent_image:         /assets/img/electo.jpg
 
 <div class="container">
   <div class="image-container image-link">
-    <a href="lien_image1.jpg">
-      <img src="image1.jpg" alt="Image 1">
+    <a href="https://www.sicaesomme.fr">
+      <img src="/assets/img/sponsors/logo-sicae.png" alt="SICAE">
     </a>
-    <p>Description de l'image 2</p>
+    <p>SICAE de la Somme et du Cambraisis</p>
   </div>
   
   <div class="image-container image-link">
-    <a href="lien_image2.jpg">
-      <img src="image2.jpg" alt="Image 2">
+    <a href="https://www.dagoma3d.com">
+      <img src="logo_dagoma.png" alt="Dagoma">
     </a>
     <p>Description de l'image 2</p>
   </div>
