@@ -76,7 +76,7 @@ accent_image:         /assets/img/electo.jpg
   </div>
   
   <div class="image-container image-link">
-    <a href="https://www.robot-maker.com">
+    <a href="https://www.we-online.com/en">
       <img src="/assets/img/sponsors/RobotMaker.png" alt="Robot_Maker">
       </a>
     <p>Robot Maker</p>
