@@ -27,7 +27,7 @@ C'est grâce à cela, mine de rien, qu'une 4ème équipe voit le jour, nous n'av
 
 # Les moments de réflexion !
 
-[moment de concentration](/assets/img/post/de_nouvelle_equipe2023/moment_de_concentration2.jpg)
+![moment de concentration](/assets/img/post/de_nouvelle_equipe2023/moment_de_concentration2.jpg)
 
 C'est dans cette optique où nous avons beaucoup de personnes que les idées prennent vie et ont du sens, chacun rajoute une idée avec un esprit critique dans la bonne humeur. Avec cet esprit de convivialité et de partage, nous arrivons à développer notre créativité.
 
