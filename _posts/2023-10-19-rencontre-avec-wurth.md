@@ -2,8 +2,7 @@
 layout: post
 title: Rencontre avec Würth Elektronik
 description: > 
-Notre partenariat avec Würth Elektronik a été une étape cruciale dans le développement de notre association Unimakers. Cette collaboration stratégique a ouvert de nouvelles perspectives passionnantes pour notre mission visant à promouvoir l'innovation, l'éducation et l'entrepreneuriat dans le domaine de la technologie.
-  
+  Notre partenariat avec Würth Elektronik a été une étape cruciale dans le développement de notre association Unimakers. Cette collaboration stratégique a ouvert de nouvelles perspectives passionnantes pour notre mission visant à promouvoir l'innovation, l'éducation et l'entrepreneuriat dans le domaine de la technologie.
 tags: [Amiens]
 author: author2
 #canonical_url: http://hyde.getpoole.com/2012/02/07/example-content/

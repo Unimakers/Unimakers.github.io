@@ -2,9 +2,7 @@
 layout: post
 title: Salon Robotik d'Orchies
 description: > 
-
-Le Salon Robotik d'Orchies, tenu les 16 et 17 novembre en partenariat avec la Délégation Région Académique au Numérique Éducatif (DRANE), s'est imposé comme un rendez-vous dédié à l'éducation et à la découverte des avancées technologiques. Au cœur du Pévèle Arena, cet événement a accueilli collégiens et lycéens pour deux journées dynamiques, orchestrées en collaboration avec des écoles d'ingénieurs, des entreprises innovantes, et des associations étudiantes telles qu'UniLaSalle Amiens et notre association Unimakers Amiens. L'objectif était d'offrir aux participants une immersion concrète dans les domaines de la robotique, de l'intelligence artificielle, et de l'éducation numérique, tout en favorisant les échanges entre les acteurs de l'enseignement, de l'industrie, et de la jeunesse. Plongeons dans ce panorama captivant où formation, innovation, et engagement étudiant se sont rencontrés au service de l'apprentissage et de la découverte.
-  
+  Le Salon Robotik d'Orchies, tenu les 16 et 17 novembre en partenariat avec la Délégation Région Académique au Numérique Éducatif (DRANE), s'est imposé comme un rendez-vous dédié à l'éducation et à la découverte des avancées technologiques. Au cœur du Pévèle Arena, cet événement a accueilli collégiens et lycéens pour deux journées dynamiques, orchestrées en collaboration avec des écoles d'ingénieurs, des entreprises innovantes, et des associations étudiantes telles qu'UniLaSalle Amiens et notre association Unimakers Amiens. L'objectif était d'offrir aux participants une immersion concrète dans les domaines de la robotique, de l'intelligence artificielle, et de l'éducation numérique, tout en favorisant les échanges entre les acteurs de l'enseignement, de l'industrie, et de la jeunesse. Plongeons dans ce panorama captivant où formation, innovation, et engagement étudiant se sont rencontrés au service de l'apprentissage et de la découverte.
 tags: [Orchies]
 author: author2
 #canonical_url: http://hyde.getpoole.com/2012/02/07/example-content/
