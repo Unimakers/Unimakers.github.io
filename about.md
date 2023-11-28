@@ -54,7 +54,7 @@ order: 4
   </div>
 </div> 
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/association-de-robotique-de-l-esiee-amiens/adhesions/adhesion-unimakers/widget-bouton" ></iframe>
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
 
 [blog]: https://qwtel.com/hydejack/blog/
