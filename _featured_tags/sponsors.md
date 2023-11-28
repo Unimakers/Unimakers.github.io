@@ -99,8 +99,8 @@ accent_image:         /assets/img/electo.jpg
   </div>
   
   <div class="image-container image-link">
-    <a href="lien_image3.jpg">
-      <img src="image3.jpg" alt="Futur sponsor">
+    <a href="/assets/img/sponsors/i-need-you.jpg">
+      <img src="/assets/img/sponsors/i-need-you.jpg" alt="Futur sponsor">
       </a>
     <p>C'est peut être votre futur place !</p>
   </div>
