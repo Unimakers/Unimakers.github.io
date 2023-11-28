@@ -10,7 +10,7 @@ accent_color: '#E04750'
 accent_image:       
   background: '#2D2D36'
   overlay:    false
-accent_image:         /assets/img/post/Salon_orchies_2023/affiche_salon_orchies_2023.jpg
+accent_image:         /assets/img/lesI2
 ---
 
 # Les préparatifs commencent !
