@@ -12,3 +12,6 @@ accent_image:
   overlay:    false  
 accent_image:         /assets/img/robot-cdr-2023.jpg
 ---
+
+
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>

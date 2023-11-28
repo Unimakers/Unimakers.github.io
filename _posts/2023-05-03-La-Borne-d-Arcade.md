@@ -66,3 +66,4 @@ Les étapes que j'ai réalisé pour construire la borne d'arcade sont les suivan
 - [La Parties Scraping](https://drive.google.com/drive/folders/1VqpI_UWtA0QQUX6-7rAunpzHCxvgmyDm?usp=drive_link)
 - [La Parties OS recalbox](https://drive.google.com/drive/folders/1BNq80I9mQ7tGICTAPnmZjTvw8rT7d2Sf?usp=drive_link)
 
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>

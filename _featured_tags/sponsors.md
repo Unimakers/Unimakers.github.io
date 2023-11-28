@@ -106,4 +106,4 @@ accent_image:         /assets/img/electo.jpg
   </div>
 </div>
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/association-de-robotique-de-l-esiee-amiens/adhesions/adhesion-unimakers/widget-bouton" ></iframe>
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
