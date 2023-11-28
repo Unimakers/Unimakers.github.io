@@ -56,3 +56,5 @@ Pendant ce temps, des réflexions sont faites pour la partie électronique pour 
 ![réflexion électronique](/assets/img/post/de_nouvelle_equipe2023/elek2.jpg) 
 ![réflexion électronique](/assets/img/post/de_nouvelle_equipe2023/elek3.jpg) 
 ![réflexion électronique](/assets/img/post/de_nouvelle_equipe2023/elek_reflex.jpg)
+
+De super projets en perspective, nous allons suivre ça de encore plus près maintenant !
