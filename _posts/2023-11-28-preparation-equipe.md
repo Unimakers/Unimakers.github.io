@@ -12,52 +12,47 @@ accent_image:
   overlay:    false
 accent_image:         /assets/img/post/Salon_orchies_2023/affiche_salon_orchies_2023.jpg
 ---
+
 # Les préparatifs commencent !
 
-Suite à de nombreuse réflection nous arrivons à voir de nombreuse partie de robot à croire qu'il est demembré !!! ^^ mais c'est qu'une impression c'est bientot le moment de l'assemblage ^^
+Suite à de nombreuses réflexions, nous arrivons à voir de nombreuses parties de robots, à croire qu'il est démembré !!! ^^ Mais c'est juste une impression, c'est bientôt le moment de l'assemblage ^^
 
-La carte électronique de l'équipe Unimakers est bientôt fini Dylan y travaille d'arrache pied 
-![carte electronique](/assets/img/post/de_nouvelle_equipe2023/carte_elek.png)
+La carte électronique de l'équipe Unimakers est bientôt finie, Dylan y travaille d'arrache-pied ![carte électronique](/assets/img/post/de_nouvelle_equipe2023/carte_elek.png)
 
-Tandis que l'équipe Unimakers Legends un peu à la traine mécaniquement nous donnes un visualisation de leur traitement d'image de leur programme avec des resultat epoustouflant car le dévellopeur n'utilise aucune librarie existante, même pas de openCV !!! le resultat est fou ! Superbe travaille de Yassine ^^
-![detection de plante](/assets/img/post/de_nouvelle_equipe2023/detection_plante.png)
-![detection de plante](/assets/img/post/de_nouvelle_equipe2023/detection_plante2.png)
-![traitement d'image](/assets/img/post/de_nouvelle_equipe2023/traitement_img.png)
+Tandis que l'équipe Unimakers Legends, un peu à la traîne mécaniquement, nous donne une visualisation de leur traitement d'image de leur programme avec des résultats époustouflants car le développeur n'utilise aucune librairie existante, même pas d'OpenCV !!! Le résultat est fou ! Superbe travail de Yassine ^^ ![détection de plante](/assets/img/post/de_nouvelle_equipe2023/detection_plante.png) ![détection de plante](/assets/img/post/de_nouvelle_equipe2023/detection_plante2.png) ![traitement d'image](/assets/img/post/de_nouvelle_equipe2023/traitement_img.png)
 
-Tandis que nos équipe s'endors sur quelque acquis et qui pense que leur experience fera la difference, même si c'est un peu vrai ^^ , une nouvelle équipe vois le jour ! L'équipe RATP ! De nouveau étudiant maintenant membre de notre association qui ne lache rien ! Des prototype de leur robot arrive et il veulent en découdre c'est moi qui vous le dit !
+Tandis que nos équipes s'endorment sur quelques acquis et pensent que leur expérience fera la différence, même si c'est un peu vrai ^^, une nouvelle équipe voit le jour ! L'équipe RATP ! De nouveaux étudiants, maintenant membres de notre association, ne lâchent rien ! Des prototypes de leur robot arrivent et ils veulent en découdre, c'est moi qui vous le dis ! ![RATP](/assets/img/post/de_nouvelle_equipe2023/lesI2.jpg)
 
-![RATP](/assets/img/post/de_nouvelle_equipe2023/lesI2.jpg)
+C'est grâce à cela, mine de rien, qu'une 4ème équipe voit le jour, nous n'avons pas encore leur nom mais on en parlera un peu plus bientôt !
 
-C'est grace à cela que mine de rien qu'une 4iéme équipe vois le jour nous n'avons pas encore leur nom mais on en parlera un peu plus bientot! 
+# Les moments de réflexion !
 
-# Les moments de réflexion
-![moment de concentration](/assets/img/post/de_nouvelle_equipe2023/moment_de_concentration2.jpg)
+[moment de concentration](/assets/img/post/de_nouvelle_equipe2023/moment_de_concentration2.jpg)
 
-C'est dans cette optique ou nous avons beaucoup de personne que les idée prennent vie et ont du sens chacun rajoute une idée avec un esprit critique dans la bonne humeur. Avec cet esprit de convivialité et de partage nous arrivons à dévelloper notre créativités 
+C'est dans cette optique où nous avons beaucoup de personnes que les idées prennent vie et ont du sens, chacun rajoute une idée avec un esprit critique dans la bonne humeur. Avec cet esprit de convivialité et de partage, nous arrivons à développer notre créativité.
 
-C'est durant ses moments de reflexion que l'équipe Unimakers montre les premiers prototypes de leurs pinces pour attraper les élément de jeu sur le plateau reflechies avec d'autres équipes ^^
-*prototype 1* 
+C'est durant ces moments de réflexion que l'équipe Unimakers montre les premiers prototypes de leurs pinces pour attraper les éléments de jeu sur le plateau, réfléchies avec d'autres équipes ^^
+
+*Prototype 1* 
 <video width="640" height="360" controls muted>
   <source src="/assets/img/post/de_nouvelle_equipe2023/proto.mp4" type="video/mp4">
   Votre navigateur ne prend pas en charge la balise vidéo.
 </video>
 
-*prototype 2* 
+*Prototype 2* 
 <video width="640" height="360" controls muted>
   <source src="/assets/img/post/de_nouvelle_equipe2023/proto2.mp4" type="video/mp4">
   Votre navigateur ne prend pas en charge la balise vidéo.
 </video>
 
-*prototype 3* 
+*Prototype 3* 
 <video width="640" height="360" controls muted>
   <source src="/assets/img/post/de_nouvelle_equipe2023/proto3.mp4" type="video/mp4">
   Votre navigateur ne prend pas en charge la balise vidéo.
 </video>
 
-Dans ce même temps des réflexions sont faite pour la partie éléctronique pour les petits robots (P.A.M.I)
-
-![moment de concentration](/assets/img/post/de_nouvelle_equipe2023/moment_de_concentration.jpg)
-![reflexion électronique](/assets/img/post/de_nouvelle_equipe2023/elek2.jpg)
-![reflexion électronique](/assets/img/post/de_nouvelle_equipe2023/elek3.jpg)
-![reflexion électronique](/assets/img/post/de_nouvelle_equipe2023/elek_reflex.jpg)
-
+Pendant ce temps, des réflexions sont faites pour la partie électronique pour les petits robots (P.A.M.I) 
+![moment de concentration](/assets/img/post/de_nouvelle_equipe2023/moment_de_concentration.jpg) 
+![réflexion électronique](/assets/img/post/de_nouvelle_equipe2023/elek2.jpg) 
+![réflexion électronique](/assets/img/post/de_nouvelle_equipe2023/elek3.jpg) 
+![réflexion électronique](/assets/img/post/de_nouvelle_equipe2023/elek_reflex.jpg)
