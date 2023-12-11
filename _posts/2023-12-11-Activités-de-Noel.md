@@ -4,7 +4,7 @@ title: Activité décoration de Noël !
 description: > 
 Cette semaine à été rythmé par une activité de fabrication de décoration de noël au seins du MakerSpace. Les étudiants on pus exprimer leur imagination pour la création de décoration personnalisé. Or les étudiants n'étais pas les seuls présent. C'était un moment ouvert aux salariés de l'école qui ont répondu présent à l'appel ! Cette activités à été un vrai moment de partage entre étudiants et salarés réunit pour faire perdurer la magie de noël. 
 tags: [Amiens]
-author: author2
+author: author6
 #canonical_url: http://hyde.getpoole.com/2012/02/07/example-content/
 accent_color: '#E04750'
 accent_image:       
@@ -15,9 +15,9 @@ accent_image:         /assets/img/lesI2.jpg
 
 # Activité décoration de Noël !
 Pour cette activité, le bois a été notre matière première. Quoi de mieux que le bois pour faire des activités écologiques ? Qui plus est, le bois était sous forme de petit rondin de bois coupé en morceaux. Cette décision a été motivée par notre engagement envers la durabilité et notre désir de réduire l'impact de nos créations sur l'environnement. Chaque décoration fabriquée à partir de bois incarne non seulement la chaleur et l'authenticité de la saison, mais est également une alternative durable. Nos petits rondins ne casseront pas s'ils tombent du sapin ou s'ils sont mal rangés. Le bois utilisé pourra toujours être recyclé s'il ne plaît plus en tant que décoration.
-![rondins-gravé]()
+![rondins-gravé](/assets\img\post\2023-12-11-Activités-de-la-semaine-précedente\rondin_gravé.jpg)
 
-D'autres élèves ont préféré utiliser des plaques de peuplier pour avoir de meilleures finitions. C'est notamment le cas de Quentin Fache qui a pu faire cette magnifique création ! ![déco_quentin]()
+D'autres élèves ont préféré utiliser des plaques de peuplier pour avoir de meilleures finitions. C'est notamment le cas de Quentin Fache qui a pu faire cette magnifique création ! ![déco_quentin](/assets\img\post\2023-12-11-Activités-de-la-semaine-précedente\decoration_quentin.jpg")
 D'abord dessiné sur son ordinateur, il lui a alors fallu utiliser la découpeuse laser, faire plusieurs découpes puis assembler et peindre les différentes couches. Il lui a fallu passer plusieurs heures et être très minutieux pour finalement avoir la plus belle création !
 
 # Les moments de partage !
