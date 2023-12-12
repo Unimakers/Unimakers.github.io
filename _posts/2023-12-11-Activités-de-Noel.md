@@ -17,7 +17,7 @@ accent_image:         /assets/img/lesI2.jpg
 Pour cette activité, le bois a été notre matière première. Quoi de mieux que le bois pour faire des activités écologiques ? Qui plus est, le bois était sous forme de petit rondin de bois coupé en morceaux. Cette décision a été motivée par notre engagement envers la durabilité et notre désir de réduire l'impact de nos créations sur l'environnement. Chaque décoration fabriquée à partir de bois incarne non seulement la chaleur et l'authenticité de la saison, mais est également une alternative durable. Nos petits rondins ne casseront pas s'ils tombent du sapin ou s'ils sont mal rangés. Le bois utilisé pourra toujours être recyclé s'il ne plaît plus en tant que décoration.
 ![rondins-gravé](/assets\img\post\2023-12-11-Activités-de-la-semaine-précedente\rondin_gravé.jpg)
 
-D'autres élèves ont préféré utiliser des plaques de peuplier pour avoir de meilleures finitions. C'est notamment le cas de Quentin Fache qui a pu faire cette magnifique création ! ![déco_quentin](/assets\img\post\2023-12-11-Activités-de-la-semaine-précedente\decoration_quentin.jpg")
+D'autres élèves ont préféré utiliser des plaques de peuplier pour avoir de meilleures finitions. C'est notamment le cas de Quentin Fache qui a pu faire cette magnifique création ! ![déco_quentin](/assets\img\post\2023-12-11-Activités-de-la-semaine-précedente\decoration_quentin.jpg)
 D'abord dessiné sur son ordinateur, il lui a alors fallu utiliser la découpeuse laser, faire plusieurs découpes puis assembler et peindre les différentes couches. Il lui a fallu passer plusieurs heures et être très minutieux pour finalement avoir la plus belle création !
 
 # Les moments de partage !
