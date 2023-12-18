@@ -28,7 +28,7 @@ Alexis est étudiant en troisième année au sein de l'Unilasalle Amiens. Il s'e
 ### Les projets d'Alexis déjà en cours. 
 Nous pouvons commencer par citer un projet d'installation de poubelle de tri très sélectif des déchets. L'objectif est d'installer une poubelle différente pour chacun des matériaux pouvant être recyclés que nous pourrions être amenés à jeter. Et ce pour chacune de nos salles !
 
-En parallèle, Alexis relance le projet de recycleur de bouteille. Pour ceux qui ne connaissent pas ce projet, il a pour but de recycler nos bouteilles en plastique pour en faire du filament à imprimante 3D. Le projet avait déjà été lancé il y a maintenant plus d'un an dans l'association mais n'avait pas été terminé par manque de temps.
+En parallèle, Alexis relance le projet de bobinage PETG. Pour ceux qui ne connaissent pas ce projet, il a pour but de recycler nos bouteilles en plastique pour en faire du filament à imprimante 3D. Le projet avait déjà été lancé il y a maintenant plus d'un an dans l'association mais n'avait pas été terminé par manque de temps.
 ![recycleur-PETG](/assets\img\post\2023-12-18\recycleur-PETG.jpg)
 
 Notre nouveau responsable du développement durable sera dorénavant présent lors de nos prochaines réunions et événements. Il sera également à l'écoute de toutes les suggestions pouvant réduire notre empreinte carbone. Nous sommes convaincus qu'il sera un atout précieux pour notre association et pour nos projets !
