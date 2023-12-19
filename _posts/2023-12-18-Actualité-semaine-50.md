@@ -15,7 +15,7 @@ accent_image:         /assets/img/lesI2.jpg
 
 # Un pas de plus pour l'environnenemnt. 
 
-## Alexis, notre nouveaus Responsable DD ! 
+## Alexis, notre nouveau Responsable DD ! 
 Nous sommes ravis de vous annoncer l'arrivée d'Alexis Pinoteaux, notre nouveau responsable du Développement Durable. Alexis aura pour mission de faire de nos projets et de notre association des acteurs engagés pour l'environnement. Il nous aidera à réduire notre impact écologique et à sensibiliser nos partenaires et nos bénéficiaires aux enjeux du développement durable.
 
 Alexis est étudiant en troisième année au sein de l'Unilasalle Amiens. Il s'est présenté de lui-même pour prendre en charge cette responsabilité. Alexis a déjà pu nous prouver en quelques jours sa motivation et sa préoccupation pour l'environnement en nous présentant des idées de projets qui ont d'ores et déjà commencé.
@@ -35,7 +35,7 @@ Notre nouveau responsable du développement durable sera dorénavant présent lo
 
 ### Le projet de Jules
 
-Jules Margolle, l'un de nos membres arrivés au sein de l'association cette année, s'est aussi lancé dans un projet en faveur du recyclage ! Jules a décidé de fabriquer un moule pour l'injection plastique. Vous allez peut-être vous demander en quoi ce projet est en faveur de l'environnement ? Et vous avez raison, cela est simplement dû au fait que ce moule servira à réutiliser les déchets d'impressions 3D, tels que les supports d'impressions ou les impressions ratées.
+Jules Margollé, l'un de nos membres arrivés au sein de l'association cette année, s'est aussi lancé dans un projet en faveur du recyclage ! Jules a décidé de fabriquer un moule pour l'injection plastique. Vous allez peut-être vous demander en quoi ce projet est en faveur de l'environnement ? Et vous avez raison, cela est simplement dû au fait que ce moule servira à réutiliser les déchets d'impressions 3D, tels que les supports d'impressions ou les impressions ratées.
 Ces déchets pourront être broyés, puis fondus et injectés dans le moule. La forme du moule vise à créer des porte-clés.
 
 Le matériel nécessaire pour broyer et réutiliser les déchets d'impressions 3D n'était jusqu'alors pas utilisé. Nous sommes vraiment ravis que de plus en plus d'étudiants viennent fréquenter nos locaux et exploitent tout leur potentiel !
