@@ -99,11 +99,32 @@ accent_image:         /assets/img/electo.jpg
   </div>
   
   <div class="image-container image-link">
+    <a href="https://citdessaint.com">
+      <img src="/assets/img/sponsors/citdessaint.jpg" alt="CIT Dessaint">
+      </a>
+    <p>C'est peut être votre futur place !</p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="image-container image-link">
+    <a href="https://www.makerbeam.com">
+      <img src="/assets/img/sponsors/logo-makerbeam.png" alt="Makerbeam">
+    </a>
+    <p>Makerbeam</p>
+  </div>
+  
+  <div class="image-container image-link">
+    <a href="/assets/img/sponsors/i-need-you.jpg">
+      <img src="/assets/img/sponsors/i-need-you.jpg" alt="Futur sponsor">
+      </a>
+    <p>C'est peut être votre futur place !</p>
+  </div>
+  
+  <div class="image-container image-link">
     <a href="/assets/img/sponsors/i-need-you.jpg">
       <img src="/assets/img/sponsors/i-need-you.jpg" alt="Futur sponsor">
       </a>
     <p>C'est peut être votre futur place !</p>
   </div>
 </div>
-
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
