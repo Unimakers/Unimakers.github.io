@@ -2,7 +2,7 @@
 layout: post
 title: Activité décoration de Noël ! 
 description: > 
-Cette semaine à été rythmé par une activité de fabrication de décoration de noël au seins du MakerSpace. Les étudiants on pus exprimer leur imagination pour la création de décoration personnalisé. Or les étudiants n'étais pas les seuls présent. C'était un moment ouvert aux salariés de l'école qui ont répondu présent à l'appel ! Cette activités à été un vrai moment de partage entre étudiants et salarés réunit pour faire perdurer la magie de noël. 
+  Cette semaine à été rythmé par une activité de fabrication de décoration de noël au seins du MakerSpace. Les étudiants on pus exprimer leur imagination pour la création de décoration personnalisé. Or les étudiants n'étais pas les seuls présent. C'était un moment ouvert aux salariés de l'école qui ont répondu présent à l'appel ! Cette activités à été un vrai moment de partage entre étudiants et salarés réunit pour faire perdurer la magie de noël. 
 
 tags: [Amiens]
 author: author6
