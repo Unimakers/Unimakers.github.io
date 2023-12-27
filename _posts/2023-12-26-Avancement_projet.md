@@ -2,6 +2,7 @@
 layout: post
 title: Robot Unimakers
 description: > 
+Venez découvrir l'avancement du robot principal de l'équipe Unimakers (l'équipe des I3). De grosses avancées ont eu lieu sur la partie électronique et mécanique !
 
 tags: [Amiens]
 author: author6

@@ -2,6 +2,7 @@
 layout: post
 title: Arrivé responsable DD
 description: > 
+Cette semaine marque l'arrivée du responsable DD dans notre équipe ainsi que le lancement d'un projet en faveur de l'environnement !
 
 tags: [Amiens]
 author: author6
