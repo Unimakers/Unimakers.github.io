@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sponsors
-slug: Sponsors
+title: Boutique
+slug: Boutique
 menu: true
 order: 6
 description: >
@@ -11,5 +11,5 @@ accent_image:         /assets/img/post/2023-12-11-Activités-de-la-semaine-préc
 
 ---
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/boutiques/boutique-de-vetement/widget" style="width: 100%; height: 100%; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/boutiques/boutique-de-vetement/widget" style="width: 100%; height: 1500px; border: none;"></iframe>
 
