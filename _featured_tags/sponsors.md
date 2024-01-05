@@ -128,3 +128,4 @@ accent_image:         /assets/img/electo.jpg
     <p>C'est peut être votre futur place !</p>
   </div>
 </div>
+
