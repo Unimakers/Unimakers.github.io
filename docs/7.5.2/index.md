@@ -12,7 +12,7 @@ accent_image:       /assets/img/arcade-c.jpg
 **NOTE**: D'autre documentation arrive prochainement
 
 ## Le robot de la coupe de france de robotique 2024
-[To the docs]([https://www.openai.comhttps://unimakers.fr/Docs-Unimakers-CDR-2024/])
+[To the docs]([https://unimakers.fr/Docs-Unimakers-CDR-2024/])
 <!-- Buyers of the PRO version can jump straight to [installation for pro buyers](install.md#pro-version),
 or [upgrades for pro buyers](upgrade.md#pro-version).
 -->
