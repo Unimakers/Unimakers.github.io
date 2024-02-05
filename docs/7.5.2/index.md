@@ -11,8 +11,9 @@ accent_image:       /assets/img/arcade-c.jpg
 
 **NOTE**: D'autre documentation arrive prochainement
 
-## Le robot de la coupe de france de robotique 2024
-[Documentation l'équipe Unimakers RATP](https://unimakers.fr/Docs-Unimakers-CDR-2024/)
+## Les robots de la coupe de france de robotique 2024
+[Documentation l'équipe Unimakers I3 2023-24](https://unimakers.fr/Docs-Unimakers-CDR-2024/)
+[Documentation l'équipe Unimakers I2 (RATP)](https://unimakers.fr/ITEC-2024-I2/)
 <!-- Buyers of the PRO version can jump straight to [installation for pro buyers](install.md#pro-version),
 or [upgrades for pro buyers](upgrade.md#pro-version).
 -->
