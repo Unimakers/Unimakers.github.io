@@ -12,7 +12,7 @@ accent_image:       /assets/img/arcade-c.jpg
 **NOTE**: D'autre documentation arrive prochainement
 
 ## Le robot de la coupe de france de robotique 2024
-[To the docs](https://unimakers.fr/Docs-Unimakers-CDR-2024/)
+[Documentation l'équipe Unimakers RATP](https://unimakers.fr/Docs-Unimakers-CDR-2024/)
 <!-- Buyers of the PRO version can jump straight to [installation for pro buyers](install.md#pro-version),
 or [upgrades for pro buyers](upgrade.md#pro-version).
 -->
@@ -20,11 +20,11 @@ or [upgrades for pro buyers](upgrade.md#pro-version).
 {:.hr}
 
 * [Installation]{:.heading.flip-title} --- Comment installer l'OS Recalbox.
-<!--* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.-->
-<!--* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.-->
+* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
+* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
 
-<!-- Ceci est un commentaire en Markdown ## Using Hydejack
+Ceci est un commentaire en Markdown ## Using Hydejack
 {:.hr}
 
 * [Basics]{:.heading.flip-title} --- How to add different types of content.
@@ -41,7 +41,7 @@ or [upgrades for pro buyers](upgrade.md#pro-version).
 * [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
--->
+
 [installation]: installation.md
 [upgrade]: upgrade.md
 [config]: config.md
