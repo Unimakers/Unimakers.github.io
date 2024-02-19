@@ -15,21 +15,21 @@ accent_image:         /assets/img/lesI2.jpg
 
 # Avancées majeures des robots.
 
-Avec de 15 jours de vacances scolaires, les membres de l'équipe ont pu se vider l'esprit et progresser rapidement dans le développement des robots. Ces avancées ont été mises en œuvre lors de la rentrée scolaire, grâce à l'accès aux installations, aux outils et aux machines du Maker-Space/Unimakers. Nous vous proposons donc de voir ces avancements !
+Avec les vacances de Noël, les membres de l'équipe ont pu se vider l'esprit et progresser rapidement dans le développement des robots. Ces avancées ont été mises en œuvre lors de la rentrée scolaire, grâce à l'accès aux installations, aux outils et aux machines du Maker-Space/Unimakers. Nous vous proposons donc de voir ces avancements !
 
 # L'équipe Unimakers Legend (I4) reprend du service.
 
-L'équipe attendait après des composants commandés chez nos sponsors. Maintenant que la commande a été reçue, ils ont relancé l'avancement de leur projet. Ils ont notamment retravaillé leur actionneur de l'année dernière pour les adapter aux plantes et aux pots qui sont les objets à manipuler cette année.
+L'équipe attendait après des composants commandés chez nos sponsors. Maintenant que la commande a été reçue, ils ont relancé l'avancement de leur projet. Ils ont notamment retravaillé leur actionneur de l'année passé pour les adapter aux plantes et aux pots qui sont les objets à manipuler cette année.
 
 # Avancement de l'équipe Unimakers (I3).
 
 ## Assemblage du nouveau système de pince.
 
-Le système de pince à deux moteurs a été imprimé et assemblé. Mieux, il a commencé à être programmé. Nous l'avons également testé en reproduisant l'action des moteurs à la main et ces tests ont été un succès. Des petites modifications ont été ajoutées à la suite, par exemple des encoches pour tenir en place les câbles des servos-moteurs. Des cales ont été ajoutées pour ne pas que les moteurs touchent les plantes et les fassent tomber. De nouvelles mâchoires beaucoup plus fines ont été imprimées. Celles-ci permettent notamment de passer entre les pots.
+Le système de pince à deux moteurs a été imprimé et assemblé. Mieux, il a commencé à être programmé. Nous l'avons également testé en reproduisant l'action des moteurs manuellement et ces tests ont été un succès. Des petites modifications ont été ajoutées à la suite, par exemple des encoches pour tenir en place les câbles des servos-moteurs. Des cales ont été ajoutées pour ne pas que les moteurs touchent les plantes et les fassent tomber. De nouvelles mâchoires beaucoup plus fines ont été imprimées. Celles-ci permettent notamment de passer entre les pots.
 
 ## Assemblage nouvelle base roulante.
 
-La nouvelle base roulante a été assemblée. Sur celle-ci, on peut désormais retrouver les carters sur le dessus du robot, cela permet notamment d'y loger la carte électronique de celui-ci. Les roulements sur les angles du robot ont été ajoutés, le support de batterie est prêt à être installé.
+La nouvelle base roulante a été assemblée. Sur celle-ci, on peut désormais retrouver les carters sur le dessus du robot, cela permet notamment d'y loger la carte électronique de celui-ci. Les roulements sur les angles du robot ont été ajoutés, les supports de batterie ont été installés.
 
 ## Nouveau système de barillet pour les plantes.
 
@@ -39,16 +39,14 @@ Après de nombreux essais et prototypes, un système de barillet pour contenir l
 
 # L'équipe RATP (I2) commence la seconde partie de leurs robots.
 
-L'équipe RATP termine sa base mécanome, la partie mécanique de leur base roulante se termine et la programmation va commencer pour eux. Ils seront évidemment aidés par Adrien Bracq et les autres membres des équipes pour programmer les déplacements. Cela risque de ne pas être simple, mais c'est également un très bon défi d'apprentissage ! Ils ont donc d'ores et déjà commencé à travailler sur ce qu'ils appellent la cage et les premiers prototypes en carton ont été assemblés. La cage correspond actuellement à un cube dans lequel sera contenu tout le système qui servira à effectuer toutes les tâches de la Coupe de France que ce soit pour cette année ou les années suivantes.
+L'équipe RATP termine sa base mécanome, la partie mécanique de leur base roulante se termine et la programmation va commencer pour eux. Ils seront évidemment aidés par Adrien Bracq et les autres membres des équipes pour programmer les déplacements. Ils ont donc d'ores et déjà commencé à travailler sur ce qu'ils appellent la cage et les premiers prototypes en carton ont été assemblés. La cage correspond actuellement à un cube dans lequel sera contenu tout le système qui servira à effectuer toutes les tâches de la Coupe de France que ce soit pour cette année ou les années suivantes.
 
 ![cube-I2](/assets\img\post\2024-01-17 Nouveauté-équipe\cube.jpg)
 
 
-
-
 # L'équipe des I1 avance également à grands pas.
 
-L'équipe s'est réunie plusieurs fois dans les locaux ces deux dernières semaines pour avancer sur leur projet. Ils font part d'une implication grandissante au fur et à mesure du temps. Cette expérience leur permet de progresser et d'acquérir ou approfondir certaines connaissances étudiées en cours.
+L'équipe s'est réunie plusieurs fois dans les locaux ces derniers temps pour avancer sur leur projet. Ils font part d'une implication grandissante au fur et à mesure du temps. Cette expérience leur permet de progresser et d'acquérir ou approfondir certaines connaissances étudiées en cours.
 
 ![Equipe-I1](/assets\img\post\2024-01-17 Nouveauté-équipe\I1.jpg)
 
