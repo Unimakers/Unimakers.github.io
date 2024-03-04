@@ -11,7 +11,7 @@ accent_color: '#E04750'
 accent_image:       
   background: '#2D2D36'
   overlay:    false
-accent_image:         /assets/img/atelier.jpg
+accent_image:         /assets/img/Dagoma.jpg
 ---
 
 # Un pas de plus pour l'environnenemnt. 
