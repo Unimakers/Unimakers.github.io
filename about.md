@@ -58,7 +58,7 @@ order: 4
 
 
 
-![BrandingKit](assets/Files/Branding-kit.zip)
+[BrandingKit](assets/Files/Branding-kit.zip)
 
 
 [blog]: https://qwtel.com/hydejack/blog/
