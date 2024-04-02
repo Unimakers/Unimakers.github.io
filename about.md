@@ -57,6 +57,10 @@ order: 4
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
 
+
+![BrandingKit](assets/Files/Branding-kit.zip)
+
+
 [blog]: https://qwtel.com/hydejack/blog/
 [portfolio]: https://qwtel.com/hydejack/variations/
 [resume]: https://qwtel.com/hydejack/resume/
