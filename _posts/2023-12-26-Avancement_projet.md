@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robot Unimakers
+title: Avancement projet
 description: > 
   Venez découvrir l'avancement du robot principal de l'équipe Unimakers (l'équipe des I3). De grosses avancées ont eu lieu sur la partie électronique et mécanique !
 

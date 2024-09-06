@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robot Unimakers
+title: After Coupe
 description: > 
   La coupe de france de robotique est passé, toutes nos équipes ont pus participié à l'évènements et c'est avec des souvenirs plein la tête que nous sommes rentré dans nos locaux au sein d'Unilasalle Amiens.
 tags: [Amiens]

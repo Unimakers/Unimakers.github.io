@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Robot Unimakers
+title: Nouvelle des équipes
 description: > 
-  Avec 15 jours de libéré pour les membres des équipes grâce aux vacances scolaires, un avancement remarquable a pu avoir lieu sur les robots.
+  Avec 15 jours de libération pour les membres des équipes grâce aux vacances scolaires, un avancement remarquable a pu avoir lieu sur les robots.
 tags: [Amiens]
 author: author6
 #canonical_url: http://hyde.getpoole.com/2012/02/07/example-content/

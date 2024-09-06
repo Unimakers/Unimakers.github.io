@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robot Unimakers
+title: La coupe Approche
 description: > 
   La coupe de France de robotique approche à grand pas ainsi que l'avancement des robots. A l'occasion des collégiens sont venue tester leur création sur notre table de robotique.
 tags: [Amiens]
@@ -12,7 +12,6 @@ accent_image:
   overlay:    false
 accent_image:         /assets/img/lesI2.jpg
 ---
-
 
 # Accueil des collégiens
 

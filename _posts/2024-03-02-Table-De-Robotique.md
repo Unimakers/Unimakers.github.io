@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robot Unimakers
+title: Nouvelle table de Robotique
 description: > 
   Modification de l'agencement de notre local au seins de l'école.
 tags: [Amiens]
