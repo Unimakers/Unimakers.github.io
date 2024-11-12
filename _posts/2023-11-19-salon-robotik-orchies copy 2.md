@@ -72,4 +72,4 @@ Le Salon Robotik d'Orchies a été un événement exceptionnel qui a réuni pass
 ![InMoov](/assets/img/post/Salon_orchies_2023/InMoov.jpg)
 ![naio](/assets/img/post/Salon_orchies_2023/naio.jpg)
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers-1/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>

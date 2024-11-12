@@ -59,4 +59,4 @@ Pendant ce temps, des réflexions sont faites pour la partie électronique pour 
 
 De super projets en perspective, nous allons suivre ça de encore plus près maintenant !
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers-1/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>

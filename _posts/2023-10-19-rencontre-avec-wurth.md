@@ -60,4 +60,4 @@ Voici quelques caractéristiques de RedExpert :
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7120834749551505408" height="654" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers-1/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
