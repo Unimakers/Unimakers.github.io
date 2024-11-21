@@ -139,3 +139,22 @@ author6:
   accent_image:
     background:      '#2D2D36'
     overlay:         false
+
+
+author7:
+  name:              Leleu Clémence
+  email:             clemence.leleu04@gmail.com
+
+  about:             |
+     Etudiante passionnée par les sciences et l'audiovisuelle,  j’aime explorer l'alliance entre ces deux domaines pour créer des innovations à la fois techniques et créatives.
+     Bonne visite du site web ! 
+ 
+  #picture:  A METTRE        
+  
+  social: 
+    linkedin:        https://www.linkedin.com/in/cl%C3%A9mence-l-558360282/
+  
+  accent_color:      '#E04750'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
