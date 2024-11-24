@@ -5,7 +5,7 @@ slug: Nos projets
 menu: true
 order: 2
 description: >
-  Ici, vous pouvez retrouver tous mes projets 
+  Ici, vous pouvez retrouver tous nos projets 
 accent_color: '#E04750'
 accent_image:         
   background: '#2D2D36'
