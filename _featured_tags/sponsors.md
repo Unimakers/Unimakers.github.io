@@ -77,7 +77,7 @@ accent_image: /assets/img/electo.jpg
   <!-- Placeholder for Future Sponsor -->
   <div class="image-container">
     <a href="javascript:void(0);" onclick="openModal('modal-future')">
-      <img src="/assets/img/sponsors/i-need-you.jpg" alt="Placeholder for future sponsor" class="sponsor-img">
+     <img src="/assets/img/sponsors/i-need-you.jpg" alt="Placeholder for future sponsor" class="sponsor-img i-need-you">
     </a>
     <p>C'est peut-être vous, notre futur sponsor !</p>
   </div>
@@ -280,9 +280,16 @@ accent_image: /assets/img/electo.jpg
   justify-items: center;
 }
 
-.image-container {
-  text-align: center;
-  transition: transform 0.3s ease;
+.image-container img {
+  width: 100%;
+  height: auto;
+  object-fit: contain; 
+}
+
+.i-need-you {
+  object-fit: contain; 
+  max-width: 100%; 
+  max-height: 200px; 
 }
 
 .image-container:hover {
