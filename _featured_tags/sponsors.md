@@ -74,6 +74,15 @@ accent_image: /assets/img/electo.jpg
     <p>Makerbeam</p>
   </div>
 
+<!-- Sponsor: Mie Câline -->
+<div class="image-container">
+  <a href="javascript:void(0);" onclick="openModal('modal-miecaline')">
+    <img src="/assets/img/sponsors/LAMIECALINE_AMIENS.jpg" alt="Logo Mie Câline" class="sponsor-img">
+  </a>
+  <p>Mie Câline</p>
+</div>
+
+
   <!-- Placeholder for Future Sponsor -->
   <div class="image-container">
     <a href="javascript:void(0);" onclick="openModal('modal-future')">
@@ -231,6 +240,23 @@ accent_image: /assets/img/electo.jpg
   </div>
 </div>
 
+<!--mie caline -->
+<div id="modal-miecaline" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal('modal-miecaline')">&times;</span>
+    <h2>Mie Câline
+      <span class="year-bubble">2024</span>
+      <span class="year-bubble">2025</span>
+    </h2>
+    <p style="font-size: 14px; text-align: justify;">
+      La Mie Câline est une chaîne de boulangeries et sandwicheries française connue pour ses produits frais et ses offres gourmandes. Située à Amiens, elle soutient des initiatives locales et participe à l’accompagnement des étudiants et des associations.
+    </p>
+    <p><strong>Site web:</strong> <a href="https://www.lamiecaline.com/" target="_blank">Visitez leur site</a></p>
+    <p><strong>Instagram:</strong> <a href="https://www.instagram.com/lamiecaline/" target="_blank">Suivez-les</a></p>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/company/la-mie-caline/" target="_blank">Rejoignez les</a></p>
+    <hr style="border: 1px solid #f2f2f2; margin: 5px 0;">
+  </div>
+</div>
 
 <!-- Invitation pour de nouveaux sponsors -->
 <div id="modal-future" class="modal">
