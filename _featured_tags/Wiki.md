@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Présentation
-slug: Présentation
+title: Wiki
+slug: Wiki
 menu: true
 order: 7
 accent_color: '#E04750'
