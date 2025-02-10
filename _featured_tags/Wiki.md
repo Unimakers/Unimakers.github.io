@@ -14,5 +14,7 @@ Si vous avez des question sur comment fonctionne l'association, ou comment faire
 * Un Budget
 * Tenir le MakerSpace
 
-Rendez vous sur notre Wiki qui est complétée au fur et a mésure des differentes Directeurs.
+Rendez vous sur notre Wiki qui est complétée au fur et a mésure des different mandats.
 
+
+[le "ouiqui" de l'asso](https://unimakers.fr/wiki/)
