@@ -82,6 +82,13 @@ accent_image: /assets/img/electo.jpg
   <p>Mie Câline</p>
 </div>
 
+<!-- Sponsor: COVAL -->
+<div class="image-container">
+  <a href="javascript:void(0);" onclick="openModal('modal-coval')">
+    <img src="/assets/img/sponsors/coval_sas_france_logo.jpg" alt="COVAL logo" class="sponsor-img">
+  </a>
+  <p>COVAL</p>
+</div>
 
   <!-- Placeholder for Future Sponsor -->
   <div class="image-container">
@@ -257,6 +264,27 @@ accent_image: /assets/img/electo.jpg
     <hr style="border: 1px solid #f2f2f2; margin: 5px 0;">
   </div>
 </div>
+
+<!-- COVAL -->
+<div id="modal-coval" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal('modal-coval')">&times;</span>
+    <h2>COVAL 
+      <span class="year-bubble">2025</span>
+    </h2>
+    <p style="font-size: 14px; text-align: justify;">
+      COVAL est un fabricant français spécialisé depuis 35 ans dans la conception et la commercialisation de systèmes et composants pour la préhension par le vide, tels que des pompes à vide et des ventouses, destinés à optimiser les outils de production dans divers secteurs industriels.
+    </p>
+    <p><strong>Site web:</strong> <a href="https://www.coval.fr/" target="_blank">Visitez leur site</a></p>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/company/coval-sas-france/" target="_blank">Rejoignez-les</a></p>
+    <hr style="border: 1px solid #f2f2f2; margin: 5px 0;">
+    <h2 style="margin-top: 3px;">Avantages proposés :</h2>
+    <ul>
+      <li style="font-size: 14px;">Envoi de produits : contactez-nous pour passer commande !</li>
+    </ul>
+  </div>
+</div>
+
 
 <!-- Invitation pour de nouveaux sponsors -->
 <div id="modal-future" class="modal">
