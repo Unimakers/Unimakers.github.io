@@ -1,10 +1,19 @@
 .container {
-    display: flex;
-    justify-content: space-between; /* Espacement égal entre les images */
-    padding-top: 20px; /* Rembourrage en haut du conteneur */
-    padding-bottom: 20px; /* Rembourrage en bas du conteneur */
-    margin-top: 20px; /* Espacement en haut du conteneur */
-    margin-bottom: 20px; /* Espacement en bas du conteneur */
+    /*display: flex;
+    justify-content: space-between; 
+    padding-top: 20px; 
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+*/
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+    grid-row-gap: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
   
   .image-container {
@@ -19,6 +28,7 @@
     width: 100%; /* Définit une largeur de 100% pour que toutes les images aient la même taille */
     height: 200px; /* Définissez la hauteur fixe souhaitée pour les images */
     object-fit: cover; /* Remplit la zone avec l'image en conservant ses proportions */
+    object-position:top;
     border-top-left-radius: 10px; /* Coin supérieur gauche */
     border-top-right-radius: 10px; /* Coin supérieur droit */
   }
