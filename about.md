@@ -13,6 +13,7 @@ order: 4
 # L'équipe 2024- Mars 2025
 
 <div class="container">
+
   <div class="image-container">
     <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Dylan Looij">
     <p>Dylan Looij</p>
@@ -30,8 +31,20 @@ order: 4
     <p>Ambre Moreau</p>
     <p>Directrice</p>
   </div>
-</div> 
+  
+  <div class="image-container">
+    <img src="/assets/img/membre/PA.jpg" alt="Mathieu Lardereau">
+    <p>Mathieu Lardereau</p>
+    <p>Reponsable Sponosoring</p>
+  </div>
 
+  <div class="image-container">
+    <img src="/assets/img/membre/PA.jpg" alt="Clémence Leleu">
+    <p>Clémence Leleu</p>
+    <p>Chargé de projet Audiovisuel</p>
+  </div>
+
+</div> 
 
 
 
@@ -80,7 +93,7 @@ order: 4
 </div> 
 
 
-
+# Le branding Kit d'Unimakers
 
 [BrandingKit](assets/Files/Branding-kit.zip)
 
