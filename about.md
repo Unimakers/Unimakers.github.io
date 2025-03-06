@@ -10,6 +10,31 @@ menu: true
 order: 4
 ---
 
+# L'équipe 2024- Mars 2025
+
+<div class="container">
+  <div class="image-container">
+    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Dylan Looij">
+    <p>Dylan Looij</p>
+    <p>Directeur</p>
+  </div>
+  
+  <div class="image-container">
+    <img src="/assets/img/membre/Aurelien.png" alt="Aurelien Sézille">
+    <p>Aurelien Sézille</p>
+    <p>Directeur</p>
+  </div>
+  
+  <div class="image-container">
+    <img src="/assets/img/membre/PA.jpg" alt="Ambre Moreau">
+    <p>Ambre Moreau</p>
+    <p>Directrice</p>
+  </div>
+</div> 
+
+
+
+
 # L'équipe 2023-2024
 
 <div class="container">
@@ -54,7 +79,6 @@ order: 4
   </div>
 </div> 
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
 
 
