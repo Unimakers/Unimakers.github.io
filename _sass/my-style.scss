@@ -10,6 +10,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     justify-content: space-between;
     grid-row-gap: 20px;
+    grid-column-gap:10px;
     padding-top: 20px;
     padding-bottom: 20px;
     margin-top: 20px;
@@ -21,7 +22,7 @@
     text-align: center; /* Pour centrer le texte de la description */
     border-radius: 10px; /* Bords arrondis */
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5); /* Ombre orientée en bas à droite */
-    margin-right: 10px; /* Espacement entre les boîtes à droite */
+    // margin-right: 10px; /* Espacement entre les boîtes à droite */
   }
   
   .image-container img {
