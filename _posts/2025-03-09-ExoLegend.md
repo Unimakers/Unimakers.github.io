@@ -4,7 +4,7 @@ title: ExoLegend
 description: > 
     Notre retour sur la participation a la 3e édition de ExoLegend, une competition de type hackathon autour de la robotique
 tags: [Amiens]
-author: Dylan Looij
+author: author4
 #canonical_url: http://hyde.getpoole.com/2012/02/07/example-content/
 accent_color: '#E04750'
 accent_image:       
@@ -29,8 +29,8 @@ Unimakers a été la 2e équipe à avoir fini de construire le robot, reflétant
 
 L'équipe a ensuite décidé de colorier le robot dans les couleurs de l'association. C'est Islam qui s'est chargé de peindre un robot plutôt noir avec des nuances de rouge pour vraiment respecter la charte graphique d'Unimakers, et un autre plutôt rouge avec des nuances de noir dans l'espoir de ressembler aux couleurs d'UniLaSalle Amiens.
 
-![alt text](../assets/img/post/2025-03-09-ExoLegend/Robots.JPG)
-
+![alt text](/assets/img/post/2025-03-09-ExoLegend/Robots.JPG)
+![alt text](/assets/img/post/2025-03-09-ExoLegend/RobotCouleurUnimakers.JPG)
 
 ## Un début de programmation compliqué
 À la découverte des robots, l'équipe a fait face à une nouvelle problématique : le déplacement se faisait en vitesse et non en position, une thématique pas encore traitée par aucun des trois.
