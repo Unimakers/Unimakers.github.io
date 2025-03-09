@@ -99,10 +99,12 @@ author4:
   name:              Looij Dylan
   email:             
   about:             |
-    Directeur Technique d'Unimakers Amiens  
+    Curieux et créatif depuis mon plus jeune âge, j’aime découvrir des manières variées d’atteindre mes objectifs. Pour moi, la capacité à m’adapter est aussi précieuse que ma formation académique.
   picture:           /assets/img/membre/Dylan_Looij.jpg
-  #linkedin:         
-  #github:           
+  socials:
+    linkedin:         https://www.linkedin.com/in/dylan-looij-541579248
+    github:           https://github.com/       
+    website:          https://thatonedragon.github.io/
   accent_color:      '#E04750'
   accent_image:
     background:      '#2D2D36'
