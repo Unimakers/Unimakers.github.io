@@ -1,0 +1,53 @@
+-
+  end: "03/2025"
+  date: "2024- Mars 2025"
+  staff_members:
+  -
+    name: "Dylan Looij"
+    post: "Directeur"
+    image: "Dylan_Looij.jpg"
+  -
+    name: "Aurélien Sézille"
+    post: "Directeur"
+    image: "Aurelien.png"
+  - 
+    name: "Ambre Moreau"
+    post: "Directrice"
+  -
+    name: "Clémence Leuleu"
+    post: "Chargé de projet Audiovisuel"
+  -
+    name: "Mathieu Lardereau"
+    post: "Reponsable Sponsoring"
+-
+  end: "09/2024"
+  date: "2023 - 2024"
+  staff_members:
+  -
+    name: "Dylan Looij"
+    post: "Directeur Technique"
+    image: "Dylan_Looij.jpg"
+  -
+    name: "Quentin Fache"
+    post: "Chargé des Sponsors et des finances"
+    image: "Quentin_Fache.png"
+  -
+    name: "Pierre-Alex Bianchi"
+    post: "Chargé de la Communication"
+    image: "PA.jpg"
+-
+  end: "09/2023"
+  date: "2022 - 2023"
+  staff_members:
+  -
+    name: "Rémi Lacombe"
+    post: "Directeur Pôle Robotique"
+    image: "Remi_Lacombe.png"
+  -
+    name: "Bixente Lecadieu"
+    post: "Directeur pôle Makerspace"
+    image: "Bixente_Lecadieu.png"
+  -
+    name: "Teva Houziaux"
+    post: "Directeur pôle Modélisme"
+    image: "Teva_Houziaux.png"

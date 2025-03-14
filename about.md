@@ -10,7 +10,27 @@ menu: true
 order: 4
 ---
 
-# L'équipe 2024- Mars 2025
+
+{% for staff_data in site.data.staff_list | sort "end" | reverse %}
+# L'équipe {{ staff_data.date }}
+<div class="container">
+{% for staff_member in staff_data.staff_members %}
+{% assign image_basename = staff_member.image %}
+{% if image_basename == "" or image_basename == nil %}
+{% assign image_basename = "UniMakersMemberNoImage.png" %}
+{% endif %}
+{% assign image_url = image_basename | prepend: "/assets/img/membre/" %}
+<div class="image-container">
+<img src="{{ image_url }}" alt="{{ staff_member.name }}">
+<p>{{ staff_member.name }}</p>
+<p>{{ staff_member.post }}</p>
+</div>
+{% endfor %}
+</div>
+{% endfor %}
+
+
+<!-- # L'équipe 2024- Mars 2025
 
 <div class="container">
 
@@ -90,7 +110,7 @@ order: 4
     <p>Teva Houziaux</p>
     <p>Directeur pôle Modélisme</p>
   </div>
-</div> 
+</div>  -->
 
 
 # Le branding Kit d'Unimakers
