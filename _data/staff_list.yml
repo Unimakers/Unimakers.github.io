@@ -1,4 +1,17 @@
 -
+  end: "99/9999"
+  date: "Mars 2025 - Aujourd'hui"
+  staff_members:
+  -
+    name: "Oscar Grivelet"
+    post: "Directeur"
+  -
+    name: "Aurélien Sézille"
+    post: "Directeur"
+  - 
+    name: "Ellyn Lepagnol"
+    post: "Directrice"
+-
   end: "03/2025"
   date: "2024- Mars 2025"
   staff_members:
@@ -9,7 +22,6 @@
   -
     name: "Aurélien Sézille"
     post: "Directeur"
-    image: "Aurelien.png"
   - 
     name: "Ambre Moreau"
     post: "Directrice"
