@@ -160,8 +160,9 @@ accent_image: /assets/img/electo.jpg
       Gotronic est un distributeur français spécialisé en électronique et robotique. Il propose une large gamme de composants, kits et équipements pour les amateurs, les étudiants et les professionnels, avec un focus sur l’éducation et les projets DIY.
     </p>
     <p><strong>Site web:</strong> <a href="https://www.gotronic.fr/" target="_blank">Visitez leur site</a></p>
-    <p><strong>Instagram:</strong> <a href="https://www.instagram.com/wearersgroup/" target="_blank">Suivez-les</a></p>
-    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/company/rs-france/" target="_blank">Rejoignez-les</a></p>
+    <p><b>Blog:</b> <a href="https://www.gotronic.fr/blog/articles" target="_blank">Visitez leur blog</a></p>
+    <p><strong>YouTube:</strong> <a href="https://www.youtube.com/@savgotronic7659" target="_blank">Suivez-les</a></p>
+    <p><strong>LinkedIn:</strong> <a href="http://www.linkedin.com/company/gotronic" target="_blank">Rejoignez-les</a></p>
     <hr style="border: 1px solid #f2f2f2; margin: 5px 0;">
   </div>
 </div>
