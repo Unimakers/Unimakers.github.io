@@ -1,0 +1,21 @@
+<meta charset="utf-8" />
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+/>
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="description" content="{{ .Description }}" />
+<meta name="keywords" content="{{ delimit .Keywords "," }}{{ delimit .Page.Keywords "," }}">
+
+<title>{{ .Title }}</title>
+<link
+    rel="alternate"
+    type="application/rss+xml"
+    title="RSS Feed for UniMakers"
+    href="/index.xml"
+/>
+<link
+    rel="alternate"
+    href="{{ .RelPermalink | absURL }}"
+    hreflang="{{ .Lang }}"
+/>

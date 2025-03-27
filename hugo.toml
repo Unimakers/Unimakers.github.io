@@ -1,0 +1,18 @@
+baseURL = 'https://unimakers.fr/'
+languageCode = 'fr'
+title = 'Unimakers'
+defaultContentLanguage = "fr"
+keywords = [
+    "Unimakers Amiens",
+    "robotique",
+    "DIY",
+    "modelisme",
+    "Unilasalle Amiens",
+    "CDR",
+    "Coupe de france de robotique",
+]
+[params]
+logo = "/assets/icons/icon.png"
+description = "Association technique d'UniLaSalle Amiens"
+author = "UniMakers <unimakers.amiens@gmail.com>"
+copyright = "Copyright © Unimakers Amiens 2023. All rights reserved."
