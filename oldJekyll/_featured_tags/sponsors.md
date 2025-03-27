@@ -14,7 +14,7 @@ accent_image: /assets/img/electo.jpg
   <p style="font-size: 1.1rem; color: #555;">Découvrez les entreprises et organisations qui rendent cette aventure possible. Explorez leurs offres exclusives et soutenez-les dans leurs initiatives.</p>
 </div>
 
-<div style="text-align: center"><strong>Devenez membre de l'association pour profiter de ces avantages !</strong></div> 
+<div style="text-align: center"><strong>Devenez membre de l'association pour profiter de ces avantages !</strong></div>
 
 <!--ALL SPONSORS-->
 <div class="container">
@@ -104,7 +104,7 @@ accent_image: /assets/img/electo.jpg
 <div id="modal-igus" class="modal">
   <div class="modal-content">
     <span class="close" onclick="closeModal('modal-igus')">&times;</span>
-    <h2>Igus 
+    <h2>Igus
       <span class="year-bubble">2023</span>
       <span class="year-bubble">2024</span>
       <span class="year-bubble">2025</span>
@@ -270,7 +270,7 @@ accent_image: /assets/img/electo.jpg
 <div id="modal-coval" class="modal">
   <div class="modal-content">
     <span class="close" onclick="closeModal('modal-coval')">&times;</span>
-    <h2>COVAL 
+    <h2>COVAL
       <span class="year-bubble">2025</span>
     </h2>
     <p style="font-size: 14px; text-align: justify;">
@@ -311,16 +311,16 @@ accent_image: /assets/img/electo.jpg
 <!-- Modal CSS & Transition -->
 <style>
 .year-bubble {
-  background-color: #E04750; 
+  background-color: #E04750;
   color: white;
   border-radius: 12px;
   padding: 4px 8px;
-  font-size: 12px; 
+  font-size: 12px;
   font-weight: bold;
-  margin-left: 10px; 
+  margin-left: 10px;
   vertical-align: middle;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
-  text-align: center; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
 }
 
 .year-bubble:hover {
@@ -329,7 +329,7 @@ accent_image: /assets/img/electo.jpg
 
 .container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);  
+  grid-template-columns: repeat(3, 1fr);
   gap: 15px;
   padding: 20px;
   justify-items: center;
@@ -338,13 +338,13 @@ accent_image: /assets/img/electo.jpg
 .image-container img {
   width: 100%;
   height: auto;
-  object-fit: contain; 
+  object-fit: contain;
 }
 
 .i-need-you {
-  object-fit: contain; 
-  max-width: 100%; 
-  max-height: 200px; 
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 200px;
 }
 
 .image-container:hover {
@@ -414,7 +414,7 @@ accent_image: /assets/img/electo.jpg
 
 @media (max-width: 768px) {
   .container {
-    grid-template-columns: 1fr; 
+    grid-template-columns: 1fr;
   }
 }
 
