@@ -2,10 +2,11 @@
   These styles interact with JavsScript. Their ordering MUST NOT be changed. See `_js/cross-fader.js`.
 -->{% endcomment %}
 <style id="_pageStyle">
-{% capture page_style %}
+  {% capture page_style %}
+  @use "sass:color";
   .content a:not(.btn) {
     color: {{ color }};
-    border-color: fade-out({{ color }}, 0.8);
+    border-color: color.scale({{ color }},$alpha: 20%);
   }
 
   .content a:not(.btn):hover {
@@ -28,8 +29,8 @@
 
   .btn-primary:hover, .btn-primary.hover {
     color: #fff;
-    background-color: darken({{ color }}, 7.5%);
-    border-color: darken({{ color }}, 7.5%);
+    background-color: color.scale({{ color }},$lightness: -7.5%);
+    border-color: color.scale({{ color }}, $lightness: -7.5%);
   }
 
   .btn-primary:disabled, .btn-primary.disabled {
@@ -40,8 +41,8 @@
 
   .btn-primary:active, .btn-primary.active {
     color: #fff;
-    background-color: darken({{ color }}, 7.5%);
-    border-color: darken({{ color }}, 7.5%);
+    background-color: color.scale({{ color }}, $lightness: -7.5%);
+    border-color: color.scale({{ color }}, $lightness: -7.5%);
   }
 
   ::selection {

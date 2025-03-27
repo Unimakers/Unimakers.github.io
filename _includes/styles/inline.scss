@@ -24,45 +24,45 @@
 $font-family-heading: {{ font_heading }};
 $font-family: {{ font }};
 
-@import "variables";
-@import "my-variables";
-@import "mixins";
+@use "variables";
+@use "my-variables";
+@use "mixins";
 
-// @import "reboot-mod";
+// @use "reboot-mod";
 
 
-@import "pooleparty/__inline/base";
-@import "pooleparty/__inline/type";
-@import "pooleparty/__inline/table";
-@import "pooleparty/__inline/footer";
-@import "pooleparty/__inline/footnotes";
-@import "pooleparty/__inline/code";
-@import "pooleparty/__inline/posts";
-@import "pooleparty/__inline/related";
-@import "pooleparty/__inline/message";
-@import "pooleparty/__inline/pagination";
+@use "pooleparty/__inline/base";
+@use "pooleparty/__inline/type";
+@use "pooleparty/__inline/table";
+@use "pooleparty/__inline/footer";
+@use "pooleparty/__inline/footnotes";
+@use "pooleparty/__inline/code";
+@use "pooleparty/__inline/posts";
+@use "pooleparty/__inline/related";
+@use "pooleparty/__inline/message";
+@use "pooleparty/__inline/pagination";
 
-@import "hydejack/__inline/base";
-@import "hydejack/__inline/sidebar";
-@import "hydejack/__inline/social";
-@import "hydejack/__inline/menu";
-@import "hydejack/__inline/content";
-@import "hydejack/__inline/avatar";
-@import "hydejack/__inline/katex";
-@import "hydejack/__inline/footer";
+@use "hydejack/__inline/base";
+@use "hydejack/__inline/sidebar";
+@use "hydejack/__inline/social";
+@use "hydejack/__inline/menu";
+@use "hydejack/__inline/content";
+@use "hydejack/__inline/avatar";
+@use "hydejack/__inline/katex";
+@use "hydejack/__inline/footer";
 
 // {% unless site.hydejack.no_mark_external or site.no_mark_external %}
-//   @import "hydejack/__link/mark-external";
+//   @use "hydejack/__link/mark-external";
 // {% endunless %}
 // {% unless site.hydejack.no_break_layout %}
-//   @import "hydejack/__link/break-layout";
+//   @use "hydejack/__link/break-layout";
 // {% endunless %}
 
-// @import "syntax";
-// @import "spinner";
+// @use "syntax";
+// @use "spinner";
 
-@import "my-inline";
-// @import "my-style";
+@use "my-inline";
+// @use "my-style";
 
 {% unless site.hydejack.no_google_fonts or site.no_google_fonts %}
   {% assign font = font | split:',' | shift | join:',' %}

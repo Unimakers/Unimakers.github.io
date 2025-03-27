@@ -28,11 +28,13 @@ group :jekyll_plugins do
   # gem "jekyll-remote-theme"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
+  # gem "jekyll-sass-converter"
   # gem "jekyll-titles-from-headings"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem "sass-embedded"
 
 gem 'kramdown-parser-gfm'
 gem 'webrick'
