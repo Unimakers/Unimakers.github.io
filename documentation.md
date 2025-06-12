@@ -31,4 +31,4 @@ or [upgrades for pro buyers](upgrade.md#pro-version).
 
 * [Installation]{:.heading.flip-title} --- Comment installer l'OS Recalbox.
 
-[installation]: installation.md
+[installation]: /docs/7.5.2/installation.html
