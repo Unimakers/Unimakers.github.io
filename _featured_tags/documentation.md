@@ -9,6 +9,7 @@ accent_color: '#E04750'
 accent_image:       /assets/img/arcade-c.jpg
 ---
 
+# Documentation
 
 ## Les robots de la coupe de france de robotique 2025
 * [Documentation de l'équipe UniWIP 2024-25](https://unimakers.fr/UniWip-Docs-CDR2025/)
