@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Documentation
-menu: true
 order: 6
 description: >
   Ici vous retrouverez toutes la documentation de nos projet
@@ -9,9 +8,10 @@ accent_color: '#E04750'
 accent_image:       /assets/img/arcade-c.jpg
 ---
 
-**NOTE**: D'autre documentation arrive prochainement
+# Documentation
 
 ## Les robots de la coupe de france de robotique 2025
+* [Documentation de l'équipe UniWIP 2024-25](https://unimakers.fr/UniWip-Docs-CDR2025/)
 * [Documentation de l'équipe interpromotionel 2024-25](https://unimakers.fr/Docs-CDR-2025/)
 
 ## Les robots de la coupe de france de robotique 2024
