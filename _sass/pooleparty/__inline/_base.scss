@@ -48,8 +48,8 @@ html {
 }
 
 body {
-  color: $body-color;
-  background-color: $body-bg;
+  color: variables.$body-color;
+  background-color: variables.$body-bg;
   overflow-y: scroll;
 }
 
