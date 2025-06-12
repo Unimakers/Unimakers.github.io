@@ -5,7 +5,32 @@
     </head>
     <body>
         {{ partial "header.html" .}}
-        <main>{{ block "main" . }}{{ end }}</main>
+        {{ partial "menu.html" .}}
+
+<hy-push-state>
+  <main
+    id="_main"
+    class="content fade-in layout-{{ page.layout }}"
+    role="main"
+    data-color="{{ .Site.Params.accent_color | htmlEscape }}"
+    data-theme-color="{{ .Page.Params.theme_color | htmlEscape }}"
+    {{ if .Page.Params.image }}
+      data-image="{{ if eq .Page.Params.image 'none' }}none{{ else }}{{ .Page.Params.image | htmlEscape }}{{ endif }}"
+      {{ if .Page.Params.image != 'none' }}data-overlay{{ end }}
+    {{ else }}
+      data-background="{{ .Page.Params.image | htmlEscape }}"
+      {{ if .Page.Params.image_overlay }}data-overlay{{ end }}
+    {{ end }}
+    >
+    {{ content }}
+    {{ partial comments.html }}
+    {{ partial footer.html }}
+  </main>
+  {{ partial sidebar.html }}
+</hy-push-state>
+
+{{ partial scripts.html }}
+
         {{ partial "footer.html" .}}
     </body>
 </html>
