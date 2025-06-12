@@ -1,3 +1,5 @@
+@use "../variables";
+
 // Copyright (c) 2017 Florian Klampfer <https://qwtel.com/>
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -22,7 +24,7 @@
 .pagination {
   width: calc(100% + 2rem);
   margin: 0 -1rem 1rem;
-  color: $gray;
+  color: variables.$gray;
   text-align: center;
 
   > ul {
@@ -36,12 +38,12 @@
   > * {
     display: block;
     padding: .25rem 1rem;
-    border: solid $border-color;
+    border: solid variables.$border-color;
     border-width: 1px 0;
   }
 
   > a, > a:hover, > a:focus {
-    border-color: $border-color!important;
+    border-color: variables.$border-color!important;
   }
 
   &:first-child > * {
@@ -51,7 +53,7 @@
   // Only provide a hover state for linked pagination items
   > a:hover, a:focus {
     background-color: #f5f5f5;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid variables.$border-color;
   }
 }
 

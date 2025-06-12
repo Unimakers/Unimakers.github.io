@@ -1,3 +1,5 @@
+@use "../variables";
+
 // Copyright (c) 2017 Florian Klampfer <https://qwtel.com/>
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -24,7 +26,7 @@ a[href^="#fn:"],
 // Back to footnote link
 a[href^="#fnref:"] {
   margin-left: .1rem;
-  font-weight: $font-weight-bold;
+  font-weight: variables.$font-weight-bold;
 
   @media screen and (max-width: 73.5em) {
     font-weight: normal;
@@ -35,7 +37,7 @@ sup {
   line-height: 1;
 
   &[id^="fnref"] {
-    @media screen and (max-width: $break-point-4) {
+    @media screen and (max-width: variables.$break-point-4) {
       vertical-align: baseline;
       font-size: inherit;
 
@@ -50,7 +52,7 @@ sup {
   margin-top: 5rem;
 
   > ol {
-    color: $gray;
+    color: variables.$gray;
   }
 
   &::before {
@@ -58,7 +60,7 @@ sup {
     display: block;
     margin: 1.5rem 0;
     border: 0;
-    border-top: 1px solid $border-color;
+    border-top: 1px solid variables.$border-color;
   }
 }
 // >>>>> LINK

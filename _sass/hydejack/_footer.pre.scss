@@ -1,3 +1,5 @@
+@use "../variables";
+
 // Copyright (c) 2017 Florian Klampfer <https://qwtel.com/>
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -25,14 +27,14 @@ main > footer {
   left: .5rem;
   right: 0;
   padding: 0 1rem;
-  color: $gray;
+  color: variables.$gray;
   text-align: center;
 
   > p {
     margin-bottom: 0;
   }
 
-  @media screen and (min-width: $break-point-3) {
+  @media screen and (min-width: variables.$break-point-3) {
     left: 0;
   }
 

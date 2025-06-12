@@ -24,45 +24,46 @@
 $font-family-heading: {{ font_heading }};
 $font-family: {{ font }};
 
-@import "variables";
-@import "my-variables";
-@import "mixins";
+@use "sass:meta";
+@use "variables";
+@use "my-variables";
+@use "mixins";
 
-@import "reboot-mod";
+@use "reboot-mod";
 
 {% unless site.hydejack.no_inline_css or jekyll.environment == 'development' %}
-  @import "pooleparty/__link/base";
-  @import "pooleparty/__link/type";
-  @import "pooleparty/__link/table";
-  @import "pooleparty/__link/footer";
-  @import "pooleparty/__link/footnotes";
-  @import "pooleparty/__link/code";
-  @import "pooleparty/__link/posts";
-  @import "pooleparty/__link/related";
-  @import "pooleparty/__link/message";
-  @import "pooleparty/__link/pagination";
+  @use "pooleparty/__link/base";
+  @use "pooleparty/__link/type";
+  @use "pooleparty/__link/table";
+  @use "pooleparty/__link/footer";
+  @use "pooleparty/__link/footnotes";
+  @use "pooleparty/__link/code";
+  @use "pooleparty/__link/posts";
+  @use "pooleparty/__link/related";
+  @use "pooleparty/__link/message";
+  @use "pooleparty/__link/pagination";
 
-  @import "hydejack/__link/base";
-  @import "hydejack/__link/sidebar";
-  @import "hydejack/__link/social";
-  @import "hydejack/__link/menu";
-  @import "hydejack/__link/content";
-  @import "hydejack/__link/avatar";
-  @import "hydejack/__link/katex";
-  @import "hydejack/__link/footer";
+  @use "hydejack/__link/base" as base2;
+  @use "hydejack/__link/sidebar";
+  @use "hydejack/__link/social";
+  @use "hydejack/__link/menu";
+  @use "hydejack/__link/content";
+  @use "hydejack/__link/avatar";
+  @use "hydejack/__link/katex";
+  @use "hydejack/__link/footer" as footer2;
 
   {% unless site.hydejack.no_mark_external or site.no_mark_external %}
-    @import "hydejack/__link/mark-external";
+    @use "hydejack/__link/mark-external";
   {% endunless %}
   {% unless site.hydejack.no_break_layout %}
-    @import "hydejack/__link/break-layout";
+    @use "hydejack/__link/break-layout";
   {% endunless %}
 
-  @import "syntax";
-  @import "spinner";
+  @use "syntax";
+  @use "spinner";
 
   // @import "my-inline";
-  @import "my-style";
+  @use "my-style";
 
   {% unless site.hydejack.no_google_fonts or site.no_google_fonts %}
     .wf-active {
@@ -74,38 +75,38 @@ $font-family: {{ font }};
     }
   {% endunless %}
 {% else %}
-  @import "pooleparty/_base.pre.scss";
-  @import "pooleparty/_type.pre.scss";
-  @import "pooleparty/_table.pre.scss";
-  @import "pooleparty/_footer.pre.scss";
-  @import "pooleparty/_footnotes.pre.scss";
-  @import "pooleparty/_code.pre.scss";
-  @import "pooleparty/_posts.pre.scss";
-  @import "pooleparty/_related.pre.scss";
-  @import "pooleparty/_message.pre.scss";
-  @import "pooleparty/_pagination.pre.scss";
+  @include meta.load-css("pooleparty/_base.pre.scss");
+  @include meta.load-css("pooleparty/_type.pre.scss");
+  @include meta.load-css("pooleparty/_table.pre.scss");
+  @include meta.load-css("pooleparty/_footer.pre.scss");
+  @include meta.load-css("pooleparty/_footnotes.pre.scss");
+  @include meta.load-css("pooleparty/_code.pre.scss");
+  @include meta.load-css("pooleparty/_posts.pre.scss");
+  @include meta.load-css("pooleparty/_related.pre.scss");
+  @include meta.load-css("pooleparty/_message.pre.scss");
+  @include meta.load-css("pooleparty/_pagination.pre.scss");
 
-  @import "hydejack/_base.pre.scss";
-  @import "hydejack/_sidebar.pre.scss";
-  @import "hydejack/_social.pre.scss";
-  @import "hydejack/_menu.pre.scss";
-  @import "hydejack/_content.pre.scss";
-  @import "hydejack/_avatar.pre.scss";
-  @import "hydejack/_katex.pre.scss";
-  @import "hydejack/_footer.pre.scss";
+  @include meta.load-css("hydejack/_base.pre.scss");
+  @include meta.load-css("hydejack/_sidebar.pre.scss");
+  @include meta.load-css("hydejack/_social.pre.scss");
+  @include meta.load-css("hydejack/_menu.pre.scss");
+  @include meta.load-css("hydejack/_content.pre.scss");
+  @include meta.load-css("hydejack/_avatar.pre.scss");
+  @include meta.load-css("hydejack/_katex.pre.scss");
+  @include meta.load-css("hydejack/_footer.pre.scss");
 
   {% unless site.hydejack.no_mark_external or site.no_mark_external %}
-    @import "hydejack/_mark-external.pre.scss";
+    @include meta.load-css("hydejack/_mark-external.pre.scss");
   {% endunless %}
   {% unless site.hydejack.no_break_layout %}
-    @import "hydejack/_break-layout.pre.scss";
+    @include meta.load-css("hydejack/_break-layout.pre.scss");
   {% endunless %}
 
-  @import "syntax";
-  @import "spinner";
+  @include meta.load-css("syntax");
+  @include meta.load-css("spinner");
 
-  @import "my-inline";
-  @import "my-style";
+  @include meta.load-css("my-inline");
+  @include meta.load-css("my-style");
 
   html {
     font-family: {{ font }};

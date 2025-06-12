@@ -10,8 +10,9 @@ menu: true
 order: 4
 ---
 
-
-{% for staff_data in site.data.staff_list | sort "end" | reverse %}
+{% assign staff_list  = site.data.staff_list | sort: "end" %}
+{% assign staff_list = staff_list  | reverse %}
+{% for staff_data in staff_list %}
 # L'équipe {{ staff_data.date }}
 <div class="container">
 {% for staff_member in staff_data.staff_members %}

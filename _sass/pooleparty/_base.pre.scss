@@ -1,3 +1,5 @@
+@use "../variables";
+
 // Copyright (c) 2017 Florian Klampfer <https://qwtel.com/>
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -31,13 +33,13 @@ body {
 }
 
 html {
-  font-size: $root-font-size;
-  line-height: $root-line-height;
+  font-size: variables.$root-font-size;
+  line-height: variables.$root-line-height;
 }
 
 body {
-  color: $body-color;
-  background-color: $body-bg;
+  color: variables.$body-color;
+  background-color: variables.$body-bg;
   overflow-y: scroll;
 }
 

@@ -1,3 +1,6 @@
+@use "../mixins";
+@use "../variables";
+
 // Copyright (c) 2017 Florian Klampfer <https://qwtel.com/>
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -37,7 +40,7 @@ hy-push-state, hy-drawer {
   body::before {
     content: '';
     width: .5rem;
-    background: $border-color;
+    background: variables.$border-color;
     position: absolute;
     left: 0;
     top: 0;
@@ -46,17 +49,17 @@ hy-push-state, hy-drawer {
 }
 
 html {
-  @media screen and (min-width: $break-point-1) {
-    font-size: $root-font-size-medium;
+  @media screen and (min-width: variables.$break-point-1) {
+    font-size: variables.$root-font-size-medium;
   }
 
-  @media screen and (min-width: $break-point-font-large) {
-    font-size: $root-font-size-large;
+  @media screen and (min-width: variables.$break-point-font-large) {
+    font-size: variables.$root-font-size-large;
   }
 }
 // >>>>>
 
-@media print { html { font-size: $root-font-size-print; } } // link
+@media print { html { font-size: variables.$root-font-size-print; } } // link
 
 // Link styles
 hy-push-state a, .a {
@@ -85,7 +88,7 @@ hy-push-state a, .a {
 
 .content .img {
   overflow: hidden; // inline
-  background-color: $gray-bg; // inline
+  background-color: variables.$gray-bg; // inline
 
   // <<< link
   background-position: center;
@@ -126,7 +129,7 @@ hy-push-state a, .a {
 .pb0 { padding-bottom: 0 }
 // >>>>> INLINE
 
-.clearfix, .clearafter::after { @include clearfix(); } // both
+.clearfix, .clearafter::after { @include mixins.clearfix(); } // both
 
 .sr-only {
   display: none; // inline

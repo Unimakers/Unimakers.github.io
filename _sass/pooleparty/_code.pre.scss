@@ -1,3 +1,6 @@
+@use "../mixins";
+@use "../variables";
+
 // Copyright (c) 2017 Florian Klampfer <https://qwtel.com/>
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -20,12 +23,12 @@
 
 // <<<<< LINK
 code, pre {
-  font-family: $code-font-family;
+  font-family: variables.$code-font-family;
 }
 
 code {
   padding: .25em .5em;
-  background-color: $code-bg;
+  background-color: variables.$code-bg;
   font-size: .85em;
 }
 
@@ -39,10 +42,10 @@ pre {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
 
-  /* Make code same width as regular text, and scroll the full page width on mobile */
-  @include pre();
-
   backface-visibility: hidden;
+  /* Make code same width as regular text, and scroll the full page width on mobile */
+  @include mixins.pre();
+
 }
 
 pre > code {

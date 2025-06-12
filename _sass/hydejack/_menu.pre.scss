@@ -1,3 +1,5 @@
+@use "../variables";
+
 // Copyright (c) 2017 Florian Klampfer <https://qwtel.com/>
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -32,7 +34,7 @@
   padding-bottom: 0;
   min-height: 0;
   height: 0;
-  color: $gray;
+  color: variables.$gray;
 }
 
 .nav-btn-bar {
@@ -43,7 +45,7 @@
   display: inline-block;
   padding: 1.75rem .875rem;
   border-bottom: none;
-  color: $gray!important;
+  color: variables.$gray!important;
 }
 // >>>>>
 
@@ -64,7 +66,7 @@
 // >>>>
 
 #_menu {
-  @media screen and (min-width: $break-point-3) {
+  @media screen and (min-width: variables.$break-point-3) {
     position: absolute; // inline
     left: -9999px; // inline
     &:focus { position: static; } // link
@@ -77,7 +79,7 @@
   .nav-btn { padding: 1.75rem 0 }
   .nav-btn-bar {
     margin: 0 2rem;
-    @media screen and (min-width: $break-point-3) {
+    @media screen and (min-width: variables.$break-point-3) {
       margin: 0 2rem 0 0;
     }
   }

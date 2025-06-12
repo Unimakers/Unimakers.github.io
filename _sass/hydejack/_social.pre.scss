@@ -23,7 +23,7 @@
   margin-bottom: .5rem;
 
   &::after {
-    @extend .clearfix
+    @extend .clearfix !optional
   }
 
   > ul {
