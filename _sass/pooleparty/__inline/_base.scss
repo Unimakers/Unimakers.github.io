@@ -44,7 +44,7 @@ body {
 
 html {
   font-size: variables.$root-font-size;
-  line-height: $root-line-height;
+  line-height: variables.$root-line-height;
 }
 
 body {
