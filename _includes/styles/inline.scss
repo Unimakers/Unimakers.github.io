@@ -42,14 +42,14 @@ $font-family: {{ font }};
 @use "pooleparty/__inline/message";
 @use "pooleparty/__inline/pagination";
 
-@use "hydejack/__inline/base";
+@use "hydejack/__inline/base" as base2;
 @use "hydejack/__inline/sidebar";
 @use "hydejack/__inline/social";
 @use "hydejack/__inline/menu";
 @use "hydejack/__inline/content";
 @use "hydejack/__inline/avatar";
 @use "hydejack/__inline/katex";
-@use "hydejack/__inline/footer";
+@use "hydejack/__inline/footer" as footer2;
 
 // {% unless site.hydejack.no_mark_external or site.no_mark_external %}
 //   @use "hydejack/__link/mark-external";
