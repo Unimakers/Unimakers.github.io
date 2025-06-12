@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Documentation
-menu: true
 order: 6
 description: >
   Ici vous retrouverez toutes la documentation de nos projet
