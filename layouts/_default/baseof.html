@@ -16,13 +16,13 @@
     data-theme-color="{{ .Page.Params.theme_color | htmlEscape }}"
     {{ if .Page.Params.image }}
       data-image="{{ if eq .Page.Params.image 'none' }}none{{ else }}{{ .Page.Params.image | htmlEscape }}{{ endif }}"
-      {{ if .Page.Params.image != 'none' }}data-overlay{{ end }}
+      {{ if not (eq .Page.Params.image 'none') }}data-overlay{{ end }}
     {{ else }}
       data-background="{{ .Page.Params.image | htmlEscape }}"
       {{ if .Page.Params.image_overlay }}data-overlay{{ end }}
     {{ end }}
     >
-    {{ content }}
+    {{ block "main"  .}}{{ end }}
     {{ partial comments.html }}
     {{ partial footer.html }}
   </main>
