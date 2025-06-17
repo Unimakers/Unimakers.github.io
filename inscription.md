@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Inscription
-slug: Nos projets
 menu: true
 order: 3
 description: >
