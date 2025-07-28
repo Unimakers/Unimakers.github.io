@@ -1,0 +1,33 @@
+{{- if not .Params.redirect }}
+    {{- with .Site.Params.GoogleAnalytics }}
+        <script>
+            window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+            {{- if .Site.Params.hydejack_cookies_banner }}
+                if (navigator.CookiesOK) {
+                    ga('create', '{{ . }}', 'auto');
+                } else if (localStorage && localStorage.getItem('hy:cookiesOK')) {
+                    ga('create', '{{ . }}', {
+                        'storage': 'none',
+                        'clientId': localStorage.getItem('ga:clientId')
+                    });
+                } else {
+                    ga('create', '{{ . }}', {
+                        'storage': 'none'
+                    });
+                    ga('set', 'forceSSL', true);
+                    ga('set', 'anonymizeIp', true);
+                }
+            {{- else }}
+                ga('create', '{{ . }}', 'auto');
+            {{- end }}
+            ga('send', 'pageview');
+            loadJSDeferred('https://www.google-analytics.com/analytics.js');
+        </script>
+    {{- end }}
+
+    <!--[if gt IE 9]><!---->
+    {{ $js_url := "assets/js/hydejack-7.5.2.js" | relURL }}
+    <script>loadJSDeferred('{{ $js_url }}');</script>
+    {{ partial "my-scripts.html" . }}
+    <!--<![endif]-->
+{{- end }}

@@ -1,0 +1,20 @@
+<span class="sr-only">Social:</span>
+<ul>
+  {{ with .Params.social.twitter }}
+    {{ $twitter_username := .username | default . | default site.Params.social.twitter.username | default site.Params.social.twitter | default site.Params.twitter_username }}
+    {{ if $twitter_username }}
+      {{ partial "social-list-item.html" (dict "platform" "twitter" "username" $twitter_username) }}
+    {{ end }}
+  {{ end }}
+
+  {{ if not .Params.social.github }}
+    {{ $github_username := .Params.author.github.username | default .Params.author.github | default site.Params.social.github.username | default site.Params.social.github | default site.Params.github_username }}
+    {{ if $github_username }}
+      {{ partial "social-list-item.html" (dict "platform" "github" "username" $github_username) }}
+    {{ end }}
+  {{ end }}
+
+  {{ range $platform, $username := .Params.social }}
+    {{ partial "social-list-item.html" (dict "platform" $platform "username" $username) }}
+  {{ end }}
+</ul>

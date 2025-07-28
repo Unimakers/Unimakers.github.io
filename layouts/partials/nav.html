@@ -1,0 +1,20 @@
+<span class="sr-only">Navigation:</span>
+<ul>
+  {{ range .Site.Menus.Main }}
+    {{ if not .Params.RedirectTo }}
+      <li>
+        <a
+          {{ if eq .Title "Home" }}id="_navigation"{{ end }}
+          href="{{ .URL  }}"
+          class="sidebar-nav-item{{ if string.Contains .Page.URL .URL }} active{{ end }}"
+          >
+          {{ .Title }}
+        </a>
+      </li>
+    {{ else }}
+      <li>
+        <a href="{{ .Params.RedirectTo }}" class="sidebar-nav-item external" >{{ .Title }}</a>
+      </li>
+    {{ end }}
+  {{ end }}
+</ul>

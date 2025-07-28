@@ -1,0 +1,42 @@
+<hy-drawer>
+  <header id="_sidebar" class="sidebar" role="banner">
+    {{ $bg_style := "" }}
+    {{ $bg_class := "" }}
+    {{ if .Page.Params.image_background }}
+      {{ $bg_style = printf "%s%s" "background:" .Page.Params.image_background }}
+      {{ $bg_class = "sidebar-bg " }}
+      {{ if .Page.Params.image_overlay }}
+        {{ $bg_class = printf "%s%s" $bg_class "sidebar-overlay" }}
+      {{ end }}
+    {{ else }}
+      {{ $bg_style = printf "background-color:%s;" .Page.Params.color }}
+      {{ if .Page.Params.image }}
+        {{ $bg_style = printf "%sbackground-image:url(%s);" $bg_style (.Page.Params.image | safeURL) }}
+      {{ end }}
+      {{ $bg_class = printf "sidebar-bg %s" (cond .Page.Params.image "sidebar-overlay" "") }}
+    {{ end }}
+    <div class="{{ $bg_class }}" style="{{ $bg_style }}"></div>
+
+    <div class="sidebar-sticky">
+      <div class="sidebar-about">
+        <h2 class="h1"><a href="/">{{ .Site.Title }}</a></h2>
+        {{ $text := .Site.Params.Description }}
+        {{ if $text }}
+          <p class="{% if text.size > 100 %}fine{% endif %}">
+            {{ $text | markdownify | replace "<p>" "" | replace "</p>" "" }}
+          </p>
+        {{ end }}
+      </div>
+
+      <nav class="sidebar-nav heading" role="navigation">
+        {{ partial "nav.html" . }}
+      </nav>
+
+      {{ $author := .Site.Data.authors.first }}
+
+      <div class="sidebar-social">
+        {{ partial "social.html" (dict "author" $author) . }}
+      </div>
+    </div>
+  </header>
+</hy-drawer>

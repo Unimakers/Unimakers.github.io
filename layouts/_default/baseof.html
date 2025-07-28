@@ -10,27 +10,24 @@
 <hy-push-state>
   <main
     id="_main"
-    class="content fade-in layout-{{ page.layout }}"
+    class="content fade-in layout-{{ .Page.Layout }}"
     role="main"
     data-color="{{ .Site.Params.accent_color | htmlEscape }}"
     data-theme-color="{{ .Page.Params.theme_color | htmlEscape }}"
     {{ if .Page.Params.image }}
-      data-image="{{ if eq .Page.Params.image 'none' }}none{{ else }}{{ .Page.Params.image | htmlEscape }}{{ endif }}"
-      {{ if not (eq .Page.Params.image 'none') }}data-overlay{{ end }}
+      data-image="{{ if eq .Page.Params.image "none" }}none{{ else }}{{ .Page.Params.image | htmlEscape }}{{ end }}"
+      {{ if not (eq .Page.Params.image "none" )}}data-overlay{{ end }}
     {{ else }}
       data-background="{{ .Page.Params.image | htmlEscape }}"
       {{ if .Page.Params.image_overlay }}data-overlay{{ end }}
     {{ end }}
     >
     {{ block "main"  .}}{{ end }}
-    {{ partial comments.html }}
-    {{ partial footer.html }}
+    {{ partial "comments.html" . }}
+    {{ partial "footer.html" . }}
   </main>
-  {{ partial sidebar.html }}
+  {{ partial "sidebar.html" . }}
 </hy-push-state>
-
-{{ partial scripts.html }}
-
-        {{ partial "footer.html" .}}
+{{ partial "scripts.html" . }}
     </body>
 </html>
