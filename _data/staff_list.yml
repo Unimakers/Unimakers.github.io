@@ -12,7 +12,7 @@
     name: "Ellyn Lepagnol"
     post: "Directrice"
 -
-  end: "03/2025"
+  end: "2503" # (20)25(/)03
   date: "2024- Mars 2025"
   staff_members:
   -
@@ -32,7 +32,7 @@
     name: "Mathieu Lardereau"
     post: "Reponsable Sponsoring"
 -
-  end: "09/2024"
+  end: "2409" # (20)25(/)09
   date: "2023 - 2024"
   staff_members:
   -
@@ -48,7 +48,7 @@
     post: "Chargé de la Communication"
     image: "PA.jpg"
 -
-  end: "09/2023"
+  end: "2309" # (20)25(/)09
   date: "2022 - 2023"
   staff_members:
   -
