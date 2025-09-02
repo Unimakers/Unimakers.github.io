@@ -32,4 +32,4 @@ De plus, nous nous efforçons de rester à l'avant-garde des avancées technolog
 ![VR](/assets/img/VR.png)
 
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers-1/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers-2025-2026/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>

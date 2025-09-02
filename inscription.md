@@ -12,6 +12,6 @@ accent_image:
 accent_image:         /assets/img/guitare_c.jpg
 ---
  
-Vous pouvez vous incrire à l'aide de la fenêtre ci-dessous ou en allant directement [sur le lien d'inscription helloasso](https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers-1): [https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers-1](https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers-1)
+Vous pouvez vous incrire à l'aide de la fenêtre ci-dessous ou en allant directement [sur le lien d'inscription helloasso](https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers-2025-2026): [https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers-2025-2026](https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers-2025-2026)
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers-1/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers-2025-2026/widget" style="width: 100%; height: 750px; border: none;"></iframe>
