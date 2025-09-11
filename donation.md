@@ -2,7 +2,7 @@
 layout: page
 title: Faire un don
 menu: true
-order: 4
+order: 10
 description: >
   Les dons servent à financer les frais de transport et divers consommations pour la Coupe de France de Robotique et autres projets de l'association.
 accent_color: '#E04750'
