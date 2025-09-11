@@ -4,7 +4,7 @@ title: Faire un don
 menu: true
 order: 4
 description: >
-  Ce sont vos dons qui font vivre l'association avec les sponsors.
+  Les dons servent à financer les frais de transport et divers consommations pour la Coupe de France de Robotique et autres projets de l'association.
 accent_color: '#E04750'
 accent_image:         
   background: '#2D2D36'
