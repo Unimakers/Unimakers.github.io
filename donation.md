@@ -2,7 +2,7 @@
 layout: page
 title: Faire un don
 menu: true
-order: 3
+order: 4
 description: >
   Ce sont vos dons qui font vivre l'association avec les sponsors.
 accent_color: '#E04750'
