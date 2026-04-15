@@ -105,11 +105,11 @@ accent_image: /assets/img/electo.jpg
     <p><strong>Instagram:</strong> <a href="https://www.instagram.com/jlcpcb" target="_blank">Suivez-les</a></p>
     <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/company/jlcpcb/" target="_blank">Rejoignez-les</a></p>
     <hr style="border: 1px solid #f2f2f2; margin: 5px 0;">
-    <h2 style="margin-top: 3px;">Avantages proposés :</h2>
+    <!-- <h2 style="margin-top: 3px;">Avantages proposés :</h2>
     <ul>
       <!-- <li style="font-size: 14px;">Possibilité de Stage de Fin d'Etude/Stage PFE</li>
       <li style="font-size: 14px;">Envoie de Produits (Echantillons)</li> -->
-    </ul>
+    </ul> -->
   </div>
 </div>
 <!--RS-->
