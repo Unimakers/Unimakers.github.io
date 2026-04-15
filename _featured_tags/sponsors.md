@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sponsors 2024/2025
-slug: Sponsors 2024/2025
+title: Sponsors 2025/2026
+slug: Sponsors 2025/2026
 menu: true
 order: 5
 description: >
@@ -18,14 +18,6 @@ accent_image: /assets/img/electo.jpg
 
 <!--ALL SPONSORS-->
 <div class="container">
-  <!-- Sponsor: Igus -->
-  <div class="image-container">
-    <a href="javascript:void(0);" onclick="openModal('modal-igus')">
-      <img src="/assets/img/sponsors/IGUS.jpg" alt="Igus logo" class="sponsor-img">
-    </a>
-    <p>Igus</p>
-  </div>
-
   <!-- Sponsor: RS -->
   <div class="image-container">
     <a href="javascript:void(0);" onclick="openModal('modal-rs')">
@@ -50,13 +42,6 @@ accent_image: /assets/img/electo.jpg
     <p>UniLaSalle Amiens</p>
   </div>
 
-  <!-- Sponsor: Würth Elektronik -->
-  <div class="image-container">
-    <a href="javascript:void(0);" onclick="openModal('modal-wurth')">
-      <img src="/assets/img/sponsors/Wurth_Elek.png" alt="Würth Elektronik logo" class="sponsor-img">
-    </a>
-    <p>Würth Elektronik</p>
-  </div>
 
   <!-- Sponsor: CIT Dessaint -->
   <div class="image-container">
@@ -65,30 +50,13 @@ accent_image: /assets/img/electo.jpg
     </a>
     <p>CIT Dessaint</p>
   </div>
-
-  <!-- Sponsor: Makerbeam -->
+  <!-- Sponsor: Gotronic -->
   <div class="image-container">
-    <a href="javascript:void(0);" onclick="openModal('modal-makerbeam')">
-      <img src="/assets/img/sponsors/logo-makerbeam.png" alt="Makerbeam logo" class="sponsor-img">
+    <a href="javascript:void(0);" onclick="openModal('modal-jlcpcb')">
+      <img src="/assets/img/sponsors/JLCPCB.png" alt="JLCPCB logo" class="sponsor-img">
     </a>
-    <p>Makerbeam</p>
+    <p>JLCPCB</p>
   </div>
-
-<!-- Sponsor: Mie Câline -->
-<div class="image-container">
-  <a href="javascript:void(0);" onclick="openModal('modal-miecaline')">
-    <img src="/assets/img/sponsors/LAMIECALINE_AMIENS.jpg" alt="Logo Mie Câline" class="sponsor-img">
-  </a>
-  <p>Mie Câline</p>
-</div>
-
-<!-- Sponsor: COVAL -->
-<div class="image-container">
-  <a href="javascript:void(0);" onclick="openModal('modal-coval')">
-    <img src="/assets/img/sponsors/coval_sas_france_logo.jpg" alt="COVAL logo" class="sponsor-img">
-  </a>
-  <p>COVAL</p>
-</div>
 
   <!-- Placeholder for Future Sponsor -->
   <div class="image-container">
@@ -123,7 +91,27 @@ accent_image: /assets/img/electo.jpg
     </ul>
   </div>
 </div>
-
+<!--JLCPCB-->
+<div id="modal-jlcpcb" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal('modal-jlcpcb')">&times;</span>
+    <h2>Igus 
+      <span class="year-bubble">2026</span>
+    </h2>
+    <p style="font-size: 14px; text-align: justify;">
+        JLCPCB est un fournisseur de cartes électroniques.
+    </p>
+    <p><strong>Site web:</strong> <a href="https://jlcpcb.com/" target="_blank">Visitez leur site</a></p>
+    <p><strong>Instagram:</strong> <a href="https://www.instagram.com/jlcpcb" target="_blank">Suivez-les</a></p>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/company/jlcpcb/" target="_blank">Rejoignez-les</a></p>
+    <hr style="border: 1px solid #f2f2f2; margin: 5px 0;">
+    <h2 style="margin-top: 3px;">Avantages proposés :</h2>
+    <ul>
+      <!-- <li style="font-size: 14px;">Possibilité de Stage de Fin d'Etude/Stage PFE</li>
+      <li style="font-size: 14px;">Envoie de Produits (Echantillons)</li> -->
+    </ul>
+  </div>
+</div>
 <!--RS-->
 <div id="modal-rs" class="modal">
   <div class="modal-content">
