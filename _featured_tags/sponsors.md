@@ -120,6 +120,7 @@ accent_image: /assets/img/electo.jpg
       <span class="year-bubble">2023</span>
       <span class="year-bubble">2024</span>
       <span class="year-bubble">2025</span>
+      <span class="year-bubble">2026</span>
     </h2>
     <p style="font-size: 14px; text-align: justify;">
       RS Components, devenu RS Group, est un distributeur mondial de composants électroniques, électriques et industriels. Fondée en 1937, l’entreprise propose une large gamme de produits pour l’ingénierie et la maintenance, avec un fort accent sur l’innovation et la durabilité.
@@ -143,6 +144,7 @@ accent_image: /assets/img/electo.jpg
       <span class="year-bubble">2023</span>
       <span class="year-bubble">2024</span>
       <span class="year-bubble">2025</span>
+      <span class="year-bubble">2026</span>
     </h2>
     <p style="font-size: 14px; text-align: justify;">
       Gotronic est un distributeur français spécialisé en électronique et robotique. Il propose une large gamme de composants, kits et équipements pour les amateurs, les étudiants et les professionnels, avec un focus sur l’éducation et les projets DIY.
@@ -163,6 +165,7 @@ accent_image: /assets/img/electo.jpg
       <span class="year-bubble">2023</span>
       <span class="year-bubble">2024</span>
       <span class="year-bubble">2025</span>
+      <span class="year-bubble">2026</span>
     </h2>
     <p style="font-size: 14px; text-align: justify;">
       UniLaSalle Amiens, anciennement ESIEE-Amiens, est une école d’ingénieurs axée sur l’énergie, le numérique et l’industrie 4.0. Elle propose des formations innovantes en automatisation, bâtiments intelligents et objets connectés.
@@ -206,6 +209,7 @@ accent_image: /assets/img/electo.jpg
       <span class="year-bubble">2023</span>
       <span class="year-bubble">2024</span>
       <span class="year-bubble">2025</span>
+      <span class="year-bubble">2026</span>
     </h2>
     <p style="font-size: 14px; text-align: justify;">
       CIT Dessaint, basé à Amiens, est un expert en impression et confection textile, labellisé « Origine France Garantie ». L’entreprise se distingue par la sublimation textile et la production de vêtements sportifs, ainsi que d’étoffes pour la haute couture et le spectacle.
