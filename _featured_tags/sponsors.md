@@ -57,6 +57,12 @@ accent_image: /assets/img/electo.jpg
     </a>
     <p>JLCPCB</p>
   </div>
+   <div class="image-container">
+    <a href="javascript:void(0);" onclick="openModal('modal-igus')">
+      <img src="/assets/img/sponsors/IGUS.jpg" alt="IGUS logo" class="sponsor-img">
+    </a>
+    <p>JLCPCB</p>
+  </div>
 
   <!-- Placeholder for Future Sponsor -->
   <div class="image-container">
@@ -95,7 +101,7 @@ accent_image: /assets/img/electo.jpg
 <div id="modal-jlcpcb" class="modal">
   <div class="modal-content">
     <span class="close" onclick="closeModal('modal-jlcpcb')">&times;</span>
-    <h2>Igus 
+    <h2>JLCPCB 
       <span class="year-bubble">2026</span>
     </h2>
     <p style="font-size: 14px; text-align: justify;">
