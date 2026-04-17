@@ -53,7 +53,7 @@ accent_image: /assets/img/electo.jpg
   <!-- Sponsor: Gotronic -->
   <div class="image-container">
     <a href="javascript:void(0);" onclick="openModal('modal-jlcpcb')">
-      <img src="/assets/img/sponsors/JLCPCB.png" alt="JLCPCB logo" class="sponsor-img">
+      <img src="/assets/img/sponsors/JLCPCB_little.png" alt="JLCPCB logo" class="sponsor-img">
     </a>
     <p>JLCPCB</p>
   </div>
