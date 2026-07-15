@@ -61,7 +61,7 @@ accent_image: /assets/img/electo.jpg
     <a href="javascript:void(0);" onclick="openModal('modal-igus')">
       <img src="/assets/img/sponsors/IGUS.jpg" alt="IGUS logo" class="sponsor-img">
     </a>
-    <p>JLCPCB</p>
+    <p>IGUS</p>
   </div>
 
   <!-- Placeholder for Future Sponsor -->
